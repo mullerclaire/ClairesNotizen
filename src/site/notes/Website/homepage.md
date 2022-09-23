@@ -4,3 +4,9 @@
 
 
 [[Computers/Obsidian Workflow example for mathematical courses|Obsidian Workflow example for mathematical courses]]
+
+# Physik
+[[Website/Elektrodynamik|Elektrodynamik]]
+# Mathe
+
+# Informatik
