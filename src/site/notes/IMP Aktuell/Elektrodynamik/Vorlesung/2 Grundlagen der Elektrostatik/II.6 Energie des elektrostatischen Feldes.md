@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/imp-aktuell/elektrodynamik/vorlesung/2-grundlagen-der-elektrostatik/ii-6-energie-des-elektrostatischen-feldes/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+# II.6 Energie des elektrostatischen Feldes
+Wir wollen die Energie berechnen, die benötigt wird, um eine gegebene Ladunsverteilung herzustellen. 
+
+```ad-equation
+title: Arbeit, um eine eine Ladungsverteilung aus dem Unendlichen zu bringen
+
+$$W=\frac{\e_0}{2}\int\mathrm{d}^3x|\vec E(\vec x)|^2$$
+
+```
