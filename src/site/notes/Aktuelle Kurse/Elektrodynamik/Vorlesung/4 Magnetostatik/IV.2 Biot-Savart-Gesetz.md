@@ -3,7 +3,7 @@
 ---
 
 # IV.2 Biot-Savart-Gesetz
-# Ampere'sches Gesetz
+## Ampere'sches Gesetz
 
 ^029d22
 
@@ -17,10 +17,10 @@ $$\vec F_{12}=\frac{\mu_0I_1I_2}{4\pi}\oint_{C_1}\oint_{C_2}\frac{\d\vec x_1\tim
 
 Die Ströme sind konstant (statik). 
 
-## magnetische Feldkonstante
+### magnetische Feldkonstante
 Im Ampere'schen Gesetz wird die **magnetische Feldkonstante** (Permeabilität des Vakuums) benutzt: $$\mu_0=4\pi\cdot10^{-7}\frac{\mathrm{kg\cdot m}}{\mathrm{A^2s^2}},$$ die folgende Beziehung erfüllt: $$\e_0\cdot\mu_0=\frac{1}{c^2}.$$ Siehe [[Aktuelle Kurse/Elektrodynamik/Zusammenfassungen/Dielektrizitätskonstante des Vakuums|Dielektrizitätskonstante des Vakuums]] für $\e_0$. 
 
-## Alternative Darstellung
+### Alternative Darstellung
 Nach Umschreiben (siehe ED S. 56): 
 ```ad-equation
 title: Ampere'sches Gesetz (2)
@@ -32,7 +32,7 @@ $$
 ```
 Es gilt weiterhin: $\vec F_{12}=-\vec F_{21}$ (drittes Newtonsches Axiom). 
 
-# Biot-Savart-Gesetz
+## Biot-Savart-Gesetz
 Wir führen ein Feld $\vec B(\vec x)$ ein, die die Fernwirkung einer Stromschleife auf eine andere Testschleife beschreibt: die **magnetische Induktion** oder magnetische Flussdichte. Das Biot-Savart-Gesetz ist also die magnetische Induktion, aber auf einer beliebigen Testschleife. 
 
 ```ad-equation
