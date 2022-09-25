@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":[null],"dg-publish":true,"permalink":"/aktuelle-kurse/elektrodynamik/vorlesung/2-grundlagen-der-elektrostatik/ii-6-energie-des-elektrostatischen-feldes/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"Aliases":[],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/aktuelle-kurse/elektrodynamik/vorlesung/2-grundlagen-der-elektrostatik/ii-6-energie-des-elektrostatischen-feldes/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # II.6 Energie des elektrostatischen Feldes
