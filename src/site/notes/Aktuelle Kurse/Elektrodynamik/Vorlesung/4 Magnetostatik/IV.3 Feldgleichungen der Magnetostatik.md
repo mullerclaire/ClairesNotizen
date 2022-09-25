@@ -3,7 +3,7 @@
 ---
 
 # IV.3 Feldgleichungen der Magnetostatik
-# Maxwell-Gleichungen der Magnetostatik
+## Maxwell-Gleichungen der Magnetostatik
 ```ad-equation
 title: homogene Gleichung der Magnetostatik
 
