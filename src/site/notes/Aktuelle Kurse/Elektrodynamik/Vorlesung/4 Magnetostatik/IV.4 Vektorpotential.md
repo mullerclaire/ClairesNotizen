@@ -3,7 +3,7 @@
 ---
 
 # IV.4 Vektorpotential
-# Definition
+## Definition
 Wir haben gesehen, dass die magnetische Induktion sich als Rotation eines Vektorfeldes schreiben lässt: $$\vec B(\vec x)=\vec\nabla_x\times\frac{\mu_0}{4\pi}\int\d^3y\frac{\vec j(\vec y)}{|\vec x-\vec y|}=\vec\nabla_x\times\vec A.$$
 $\vec A(\vec x)$ wird **Vektorpotential** genannt. Es ist nicht eindeutig: siehe nächster Abschnitt. 
 
@@ -13,7 +13,7 @@ title: Vektorpotential
 $$\vec A(\vec x)=\frac{\mu_0}{4\pi}\int\d^3y\frac{\vec j(\vec y)}{|\vec x-\vec y|}$$
 
 ```
-# Eichtransformationen
+## Eichtransformationen
 ```ad-equation
 title: Eichtransformation
 Es ist die Addition eines beliebigen Gradientenfeldes zum Vektorpotential: 
@@ -24,7 +24,7 @@ Sie lässt das $\vec B$-Feld invariant !
 ```
 Die jeweiligen Vektorpotentiale sind physikalisch äquivalent (weil sie nicht messbar sind), was eine wichtige Eigenschaft des Elektromagnetismus ist. 
 
-## Eichfixierung/Eichwahl
+### Eichfixierung/Eichwahl
 Sie dient dazu, das Randwertproblem der Magnetostatik zu vereinfachen: man will nämlich dabei keine unphysikalische Freiheitsgrade bestimmen müssen. 
 Bedingunen: 
 - Eichung sollte unphysikalische Freiheitsgrade in $\vec A$ eliminieren.
@@ -42,7 +42,7 @@ title: Axiale Eichung
 $\vec n\cdot\vec A(\vec x)=0$ mit festem $\vec n$. 
 
 ```
-# Poisson-Gleichungen
+## Poisson-Gleichungen
 Mithilfe des Vektorpotentials in der Coulomb-Eichung reduzieren sich die Maxwell-Gleichungen der Magnetostatik auf drei Poisson-Gleichungen. 
 
 ```ad-equation
@@ -55,7 +55,7 @@ $$\triangle\vec A(\vec x)=-\mu_0\vec j(\vec x)$$
 - Eine Gleichung für jede Komponente von $\vec A$ und $\vec j$. Jede Komponente kann getrennt beobachtet werden.  
 - Sie sind analog zur [[Aktuelle Kurse/Elektrodynamik/Zusammenfassungen/Poisson-Gleichung der Elektrostatik|Poisson-Gleichung der Elektrostatik]]. 
 
-# Grundproblem der Magnetostatik
+## Grundproblem der Magnetostatik
 *Gegeben:*
 - $\vec j(\vec x)$ im Raumbereich $V$
 - Randbedingungen auf $\partial V$
