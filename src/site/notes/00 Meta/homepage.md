@@ -8,5 +8,7 @@
 # Physik
 [[01 Maps of Content/Elektrodynamik|Elektrodynamik]]
 # Mathe
-[[01 Maps of Content/Lineare Algebra 2|Lineare Algebra 2]]
+[[01 Maps of Content/Lineare Algebra|Lineare Algebra]]
+[[01 Maps of Content/Analysis 2|Analysis 2]]
+[[01 Maps of Content/Analysis 3|Analysis 3]]
 # Informatik
