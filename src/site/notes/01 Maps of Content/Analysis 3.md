@@ -3,5 +3,5 @@
 ---
 
 # Analysis 3
-[[NEW/I. Maß und Integrationstheorie|I. Maß und Integrationstheorie]]
-[[NEW/II. Integrationstheorie auf Untermannigfaltigkeiten|II. Integrationstheorie auf Untermannigfaltigkeiten]]
+[[02 All notes/I. Maß und Integrationstheorie|I. Maß und Integrationstheorie]]
+[[02 All notes/II. Integrationstheorie auf Untermannigfaltigkeiten|II. Integrationstheorie auf Untermannigfaltigkeiten]]
