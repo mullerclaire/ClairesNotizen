@@ -1,5 +1,5 @@
 ---
-{"sr-due":"2022-10-25","sr-interval":19,"sr-ease":210,"Aliases":["Äquivalenz zur Diagonalisierbarkeit"],"tags":["LinA/Diagonalisierbarkeit"],"dg-publish":true,"permalink":"/02-all-notes/satz-aequivalenz-zur-diagonalisierbarkeit/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/satz-aequivalenz-zur-diagonalisierbarkeit/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
