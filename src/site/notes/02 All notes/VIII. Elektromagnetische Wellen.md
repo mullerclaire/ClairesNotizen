@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":[null],"dg-publish":true,"permalink":"/02-all-notes/viii-elektromagnetische-wellen/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/viii-elektromagnetische-wellen/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # VIII. Elektromagnetische Wellen
