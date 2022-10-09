@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/eigenschaften-der-determinante/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/eigenschaften-der-determinante/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Eigenschaften der [[02 All notes/Determinante|Determinante]]
