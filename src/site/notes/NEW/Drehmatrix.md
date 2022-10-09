@@ -1,5 +1,5 @@
 ---
-{"Aliases":["Rotationsmatrix","matrice de rotation"],"tags":["LinA/euklidischeUnitäreVektorräume","Physik/klassischeMechanik"],"dg-publish":true,"permalink":"/new/drehmatrix/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/new/drehmatrix/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Drehmatrix
