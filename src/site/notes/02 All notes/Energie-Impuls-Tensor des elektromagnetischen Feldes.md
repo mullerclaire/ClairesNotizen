@@ -1,5 +1,5 @@
 ---
-{"Aliases":["Energie-Impuls-Tensor"],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/energie-impuls-tensor-des-elektromagnetischen-feldes/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/energie-impuls-tensor-des-elektromagnetischen-feldes/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Energie-Impuls-Tensor des elektromagnetischen Feldes
