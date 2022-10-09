@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":[null],"dg-publish":true,"permalink":"/02-all-notes/ii-2-coulombgesetz/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/ii-2-coulombgesetz/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # II.2 Coulombgesetz
