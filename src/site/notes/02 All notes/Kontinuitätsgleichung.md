@@ -1,5 +1,5 @@
 ---
-{"Aliases":["lokale Kontinuitätsgleichung"],"tags":["Physik/Elektrodynamik","Physik/Quantenmechanik"],"dg-publish":true,"permalink":"/02-all-notes/kontinuitaetsgleichung/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/kontinuitaetsgleichung/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Kontinuitätsgleichung in der Elektrodynamik
