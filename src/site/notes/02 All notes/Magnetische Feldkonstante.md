@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/magnetische-feldkonstante/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/magnetische-feldkonstante/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Magnetische Feldkonstante
@@ -18,7 +18,7 @@
 
 ^029d22
 
-Das [[02 All notes/Ampere'sche Gesetz|Ampere'sche Gesetz]] ist das Parallel des [[IMP/Elektrodynamik/Vorlesung/2 Grundlagen der Elektrostatik/II.2 Coulombgesetz|Coulomb-Gesetzes]] in der Magnetostatik. Es geht um die Wechselwirkung zwischen zwei geschlossene Stromschleifen $(C_1,I_1)$ und $(C_2,I_2)$: 
+Das [[02 All notes/Ampere'sche Gesetz|Ampere'sche Gesetz]] ist das Parallel des [[02 All notes/II.2 Coulombgesetz|Coulomb-Gesetzes]] in der Magnetostatik. Es geht um die Wechselwirkung zwischen zwei geschlossene Stromschleifen $(C_1,I_1)$ und $(C_2,I_2)$: 
 ```ad-equation
 title: Ampere'sches Gesetz (1)
 
