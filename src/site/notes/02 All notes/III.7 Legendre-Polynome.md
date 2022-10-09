@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":[null],"dg-publish":true,"permalink":"/02-all-notes/iii-7-legendre-polynome/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/iii-7-legendre-polynome/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # III.7 Legendre-Polynome
