@@ -1,5 +1,5 @@
 ---
-{"Aliases":["0. Gruppen Ringe Körper","Gruppen Ringe Körper"],"tags":[null],"dg-publish":true,"permalink":"/02-all-notes/algebraische-strukturen/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/algebraische-strukturen/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # 0. Gruppen, Ringe, Körper
