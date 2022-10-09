@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Analysis"],"dg-publish":true,"permalink":"/01-maps-of-content/analysis-3/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-maps-of-content/analysis-3/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Analysis 3
