@@ -1,5 +1,5 @@
 ---
-{"Aliases":["S1","S2","S3","Z1","Z2","Z3","Spaltenumformungen","Zeilenumformungenc"],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/elementare-zeilen-und-spaltenumformungen/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/elementare-zeilen-und-spaltenumformungen/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Elementare Zeilen- und Spaltenumformungen
