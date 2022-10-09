@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Physik/klassischeMechanik"],"dg-publish":true,"permalink":"/02-all-notes/i-3-beschleunigte-bezugssysteme/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/i-3-beschleunigte-bezugssysteme/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # I.3 Beschleunigte Bezugssysteme
