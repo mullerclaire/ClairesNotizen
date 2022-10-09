@@ -1,5 +1,5 @@
 ---
-{"Aliases":["Diracsche Deltafunktion"],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/deltafunktion/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/deltafunktion/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
