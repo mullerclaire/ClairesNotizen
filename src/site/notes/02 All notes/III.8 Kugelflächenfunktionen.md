@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":[null],"dg-publish":true,"permalink":"/02-all-notes/iii-8-kugelflaechenfunktionen/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/iii-8-kugelflaechenfunktionen/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # III.8 Kugelflächenfunktionen
