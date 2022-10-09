@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/einheitensysteme-fuer-die-elektrodynamik/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/einheitensysteme-fuer-die-elektrodynamik/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Einheitensysteme für die Elektrodynamik
