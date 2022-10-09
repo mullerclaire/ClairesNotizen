@@ -1,5 +1,5 @@
 ---
-{"Aliases":["Gram-Schmidt-Verfahren","Gram-Schmidt-Algorithmus","Gram-Schmidt"],"tags":["LinA/euklidischeUnitäreVektorräume"],"dg-publish":true,"permalink":"/02-all-notes/orthogonalisierungsverfahren-von-gram-schmidt/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/orthogonalisierungsverfahren-von-gram-schmidt/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Orthogonalisierungsverfahren von Gram-Schmidt
