@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/cramersche-regel/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/cramersche-regel/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Cramersche Regel
