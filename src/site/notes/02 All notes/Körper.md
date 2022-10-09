@@ -1,5 +1,5 @@
 ---
-{"Aliases":["field","corps"],"tags":["LinA/GruppenRingeKörper"],"dg-publish":true,"permalink":"/02-all-notes/koerper/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/koerper/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Körper^[https://de.wikipedia.org/wiki/K%C3%B6rper_(Algebra)]
