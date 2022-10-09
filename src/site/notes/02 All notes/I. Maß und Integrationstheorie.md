@@ -7,7 +7,7 @@
 [[02 All notes/2. Sigma-Algebren|2. Sigma-Algebren]]
 [[02 All notes/3. Maße|3. Maße]]
 [[02 All notes/4. Konstruktion von Maßen|4. Konstruktion von Maßen]]
-[[02 All notes/5. Lebesgue-Maß|5. Lebesgue-Maß]]
+[[02 All notes/5. Lebesgue Maß|5. Lebesgue Maß]]
 [[02 All notes/6. Messbare Funktionen und das Maß-Integral|6. Messbare Funktionen und das Maß-Integral]]
 [[02 All notes/7. Produktmaße, Produkt-sigma-Algebren, Satz von Fubini|7. Produktmaße, Produkt-sigma-Algebren, Satz von Fubini]]
 [[02 All notes/8. Transformationssatz für das Lebesgue-Integral (in Rn)|8. Transformationssatz für das Lebesgue-Integral (in Rn)]]
