@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/determinante-einer-oberen-dreiecksmatrix/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/determinante-einer-oberen-dreiecksmatrix/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Determinante einer oberen Dreiecksmatrix
