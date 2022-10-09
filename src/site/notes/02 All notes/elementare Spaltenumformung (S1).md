@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/elementare-spaltenumformung-s1/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/elementare-spaltenumformung-s1/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # elementare Spaltenumformung (S1)
