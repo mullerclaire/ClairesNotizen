@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":[null],"dg-publish":true,"permalink":"/02-all-notes/iv-3-feldgleichungen-der-magnetostatik/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/iv-3-feldgleichungen-der-magnetostatik/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # IV.3 Feldgleichungen der Magnetostatik
