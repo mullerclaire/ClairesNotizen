@@ -1,5 +1,5 @@
 ---
-{"Aliases":["Obsidian Tutorial"],"tags":[null],"dg-publish":true,"permalink":"/00-meta/obsidian-workflow-example-for-mathematical-courses/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"Aliases":["Obsidian Tutorial"],"tags":[null],"dg-publish":true,"dg-home-link":false,"permalink":"/00-meta/obsidian-workflow-example-for-mathematical-courses/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Obsidian Workflow example for mathematical courses
@@ -23,7 +23,7 @@ For general information about how to use Obsidian, see https://help.obsidian.md
 ## Metadata, tags and templates
 - To use **templates**, activate the plugin in the `settings > core plugins`. 
 - [[simple note|This]] is the template I use for a template about a single theorem/definition. Sometimes, I add remarks about the concept or examples (from the lecturer or my own) inside the same note, separated with a `---`. For theorems I might add a proof, also visually separated. 
-- In the top of the template, there is a frontmatter that lets you enter other names for the note, and tags. The tags are simply the location of that definition/theorem in each university course. For example if I saw a concept in my logics class, but also in my linear algebra class, then the note could have both tags `#linearAlgebra/VectorSpaces`and `#logic`. See Obsidian help for more information about Tags and YAML Frontmatter. 
+- In the top of the template, there is a frontmatter that lets you enter other names for the note, and tags. The tags are simply the location of that definition/theorem in each university course. For example if I saw a concept in my logics class, but also in my linear algebra class, then the note could have both tags `#linearAlgebra/vectorSpaces`and `#logic`. See Obsidian help for more information about Tags and YAML Frontmatter. 
 - Writing in LaTeX can take a lot of time, and some definitions are not worth taking the time to copy them (if you already know them well), but are still worth keeping in your vault. To save time on those notes you can use the software MathPix, which lets you take a picture of an equation (even handwritten!) and transform it automatically into a LaTeX text. 
 
 ## Useful core plugins
