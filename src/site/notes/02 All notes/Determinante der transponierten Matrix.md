@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/determinante-der-transponierten-matrix/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/determinante-der-transponierten-matrix/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Determinante der [[02 All notes/transponierte Matrix|transponierten Matrix]]
