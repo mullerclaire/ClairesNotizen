@@ -1,5 +1,5 @@
 ---
-{"Aliases":["LinA 2","LinA"],"tags":["LinA"],"dg-publish":true,"permalink":"/lineare-algebra/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/lineare-algebra/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Lineare Algebra
