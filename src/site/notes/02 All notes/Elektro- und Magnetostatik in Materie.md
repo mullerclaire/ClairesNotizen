@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":[null],"dg-publish":true,"permalink":"/02-all-notes/elektro-und-magnetostatik-in-materie/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/elektro-und-magnetostatik-in-materie/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Elektro- und Magnetostatik in Materie
