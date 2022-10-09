@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Analysis"],"dg-publish":true,"permalink":"/02-all-notes/ii-integrationstheorie-auf-untermannigfaltigkeiten/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/ii-integrationstheorie-auf-untermannigfaltigkeiten/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # II. Integrationstheorie auf Untermannigfaltigkeiten
