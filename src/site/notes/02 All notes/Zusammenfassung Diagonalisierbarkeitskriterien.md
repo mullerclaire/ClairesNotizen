@@ -1,5 +1,5 @@
 ---
-{"Aliases":["Diagonalisierbarkeitskriterien"],"tags":["LinA"],"dg-publish":true,"permalink":"/02-all-notes/zusammenfassung-diagonalisierbarkeitskriterien/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/zusammenfassung-diagonalisierbarkeitskriterien/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Zusammenfassung Diagonalisierbarkeitskriterien
