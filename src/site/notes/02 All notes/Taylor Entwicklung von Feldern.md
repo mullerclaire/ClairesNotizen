@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/taylor-entwicklung-von-feldern/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/taylor-entwicklung-von-feldern/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Taylor Entwicklung von Feldern
