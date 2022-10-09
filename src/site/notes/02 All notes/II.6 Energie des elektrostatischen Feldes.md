@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/ii-6-energie-des-elektrostatischen-feldes/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/ii-6-energie-des-elektrostatischen-feldes/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # II.6 Energie des elektrostatischen Feldes
