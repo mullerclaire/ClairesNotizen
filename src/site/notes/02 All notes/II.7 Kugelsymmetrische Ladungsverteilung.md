@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/ii-7-kugelsymmetrische-ladungsverteilung/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/ii-7-kugelsymmetrische-ladungsverteilung/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # II.7 Kugelsymmetrische Ladungsverteilung
