@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/viii-1-freie-wellengleichung/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/viii-1-freie-wellengleichung/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # VIII.1 Freie Wellengleichung
