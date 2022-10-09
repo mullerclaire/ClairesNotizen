@@ -1,5 +1,5 @@
 ---
-{"sr-due":"2022-10-15","sr-interval":9,"sr-ease":230,"dg-publish":true,"tags":["LinA/Diagonalisierbarkeit"],"permalink":"/02-all-notes/geometrische-vielfachheit/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/geometrische-vielfachheit/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
