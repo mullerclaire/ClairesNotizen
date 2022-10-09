@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/berechnung-der-inverse/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/berechnung-der-inverse/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Berechnung der Inverse
