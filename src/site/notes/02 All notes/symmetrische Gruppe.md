@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/symmetrische-gruppe/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/symmetrische-gruppe/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # symmetrische Gruppe
