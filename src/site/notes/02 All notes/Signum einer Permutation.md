@@ -1,5 +1,5 @@
 ---
-{"Aliases":["Signum","signe d'une permutation","gerade Permutation","ungerade Permutation"],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/signum-einer-permutation/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/signum-einer-permutation/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Signum einer [[02 All notes/Permutation|Permutation]]
