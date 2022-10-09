@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":[null],"dg-publish":true,"permalink":"/02-all-notes/iii-5-methode-der-separation-der-variablen/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/iii-5-methode-der-separation-der-variablen/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # III.5 Methode der Separation der Variablen
