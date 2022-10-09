@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Theoretische-Informatik"],"dg-publish":true,"permalink":"/02-all-notes/alle-sprachklassen/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/alle-sprachklassen/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # alle Sprachklassen
