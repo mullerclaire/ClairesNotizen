@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/determinante-einer-regulaeren-matrix/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/determinante-einer-regulaeren-matrix/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Determinante einer [[reguläre Matrix|regulären Matrix]]
