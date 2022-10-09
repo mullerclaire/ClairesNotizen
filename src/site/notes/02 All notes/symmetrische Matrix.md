@@ -1,5 +1,5 @@
 ---
-{"Aliases":["symmetrisch"],"tags":["LinA/euklidischeUnitäreVektorräume"],"dg-publish":true,"permalink":"/02-all-notes/symmetrische-matrix/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/symmetrische-matrix/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # symmetrische Matrix
