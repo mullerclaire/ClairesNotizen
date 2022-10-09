@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":[null],"dg-publish":true,"permalink":"/02-all-notes/iv-4-vektorpotential/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/iv-4-vektorpotential/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # IV.4 Vektorpotential
