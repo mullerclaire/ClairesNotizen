@@ -1,5 +1,5 @@
 ---
-{"Aliases":["kommutativer Ring"],"tags":["LinA/GruppenRingeKörper"],"dg-publish":true,"sr-due":"2022-10-08","sr-interval":1,"sr-ease":190,"permalink":"/02-all-notes/ring/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/ring/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Ring
