@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/euklidischeUnitäreVektorräume"],"dg-publish":true,"permalink":"/02-all-notes/diagonalisierung-durch-orthogonale-oder-unitaere-matrizen/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/diagonalisierung-durch-orthogonale-oder-unitaere-matrizen/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Diagonalisierung durch [[02 All notes/orthogonale Matrix|orthogonale]] oder [[02 All notes/unitäre Matrix|unitäre]] Matrizen
