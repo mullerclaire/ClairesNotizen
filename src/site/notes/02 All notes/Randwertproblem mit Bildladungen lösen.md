@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":[null],"dg-publish":true,"permalink":"/02-all-notes/randwertproblem-mit-bildladungen-loesen/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/randwertproblem-mit-bildladungen-loesen/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Randwertproblem mit Bildladungen lösen
