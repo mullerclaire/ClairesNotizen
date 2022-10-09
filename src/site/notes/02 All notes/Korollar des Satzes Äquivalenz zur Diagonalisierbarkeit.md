@@ -1,5 +1,5 @@
 ---
-{"sr-due":"2023-05-03","sr-interval":209,"sr-ease":212,"Aliases":[],"tags":["LinA/Diagonalisierbarkeit"],"dg-publish":true,"permalink":"/02-all-notes/korollar-des-satzes-aequivalenz-zur-diagonalisierbarkeit/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/korollar-des-satzes-aequivalenz-zur-diagonalisierbarkeit/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Korollar des Satzes Äquivalenz zur Diagonalisierbarkeit
