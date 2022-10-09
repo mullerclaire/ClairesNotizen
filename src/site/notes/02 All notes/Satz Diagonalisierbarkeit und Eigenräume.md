@@ -1,5 +1,5 @@
 ---
-{"sr-due":"2022-10-25","sr-interval":19,"sr-ease":212,"Aliases":[],"tags":["LinA/Diagonalisierbarkeit"],"dg-publish":true,"permalink":"/02-all-notes/satz-diagonalisierbarkeit-und-eigenraeume/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/satz-diagonalisierbarkeit-und-eigenraeume/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Satz [[02 All notes/diagonalisierbar|Diagonalisierbarkeit]] und [[02 All notes/Eigenraum|Eigenräume]]
