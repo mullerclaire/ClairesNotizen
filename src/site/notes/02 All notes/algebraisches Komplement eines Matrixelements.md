@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/algebraisches-komplement-eines-matrixelements/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/algebraisches-komplement-eines-matrixelements/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # algebraisches Komplement eines Matrixelements
