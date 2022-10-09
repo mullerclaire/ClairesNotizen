@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/poisson-gleichung-der-elektrostatik/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/poisson-gleichung-der-elektrostatik/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Poisson-Gleichung der Elektrostatik
@@ -15,7 +15,7 @@
 
 # II.5 Elektrostatisches Potential
 ### Exaktheit
-Die  [[IMP/Elektrodynamik/Vorlesung/2 Grundlagen der Elektrostatik/II.3 Elektrisches Feld#^ef1230|zweite differentielle Eigenschaft]] $\vec\nabla\times\vec E=\vec 0$ des [[IMP/Elektrodynamik/Vorlesung/2 Grundlagen der Elektrostatik/II.3 Elektrisches Feld#^0deff7|elektrischen Feldes]] gilt exakt. Dies folgt aus dem [[02 All notes/Stoke'scher Satz|Stoke'schen Satz]]: siehe [[02 All notes/Stoke'scher Satz#^9e8ef4|Beispiel]]. 
+Die  [[02 All notes/II.3 Elektrisches Feld#^ef1230|zweite differentielle Eigenschaft]] $\vec\nabla\times\vec E=\vec 0$ des [[02 All notes/II.3 Elektrisches Feld#^0deff7|elektrischen Feldes]] gilt exakt. Dies folgt aus dem [[02 All notes/Stoke'scher Satz|Stoke'schen Satz]]: siehe [[02 All notes/Stoke'scher Satz#^9e8ef4|Beispiel]]. 
 
 ## $\vec E$ und $\varphi$ 
 $\vec E(\vec x)$ ist ein _konservatives Feld_ und besitzt ein **elektrostatisches Potential**: 
