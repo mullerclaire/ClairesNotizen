@@ -1,5 +1,5 @@
 ---
-{"sr-due":"2022-10-18","sr-interval":12,"sr-ease":230,"tags":["LinA/Diagonalisierbarkeit"],"dg-publish":true,"permalink":"/02-all-notes/algebraische-vielfachheit/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/algebraische-vielfachheit/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
