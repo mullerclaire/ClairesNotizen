@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":[null],"dg-publish":true,"permalink":"/02-all-notes/iii-2-leiter-und-isolatoren/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/iii-2-leiter-und-isolatoren/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # III.2 Leiter und Isolatoren
