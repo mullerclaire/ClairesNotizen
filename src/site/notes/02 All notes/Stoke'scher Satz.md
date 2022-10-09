@@ -1,5 +1,5 @@
 ---
-{"Aliases":["Stokescher Satz","Satz von Stokes"],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/stoke-scher-satz/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/stoke-scher-satz/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Stoke'scher Satz
