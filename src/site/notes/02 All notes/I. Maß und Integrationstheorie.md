@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Analysis"],"dg-publish":true,"permalink":"/02-all-notes/i-mass-und-integrationstheorie/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/i-mass-und-integrationstheorie/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # I. Maß und Integrationstheorie
