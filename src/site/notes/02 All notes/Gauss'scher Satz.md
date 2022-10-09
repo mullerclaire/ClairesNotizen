@@ -1,5 +1,5 @@
 ---
-{"Aliases":["Satz von Gauß","Gaußscher Satz"],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/gauss-scher-satz/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/gauss-scher-satz/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Gauss'scher Satz
