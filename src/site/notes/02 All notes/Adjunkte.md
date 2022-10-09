@@ -1,5 +1,5 @@
 ---
-{"Aliases":["Minor"],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/adjunkte/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/adjunkte/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Adjunkte
