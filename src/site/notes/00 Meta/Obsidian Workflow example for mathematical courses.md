@@ -50,7 +50,7 @@ For general information about how to use Obsidian, see https://help.obsidian.md
 - checklist
 - clear unused images
 - **custom frames** for Moodle, MOOCs, Notion, any resource you use often: it lets you access it from your Obsidian vault, and use it without the disctractions of a browser. 
-- Discord Rich Presence (just for fun 😉) 
+- Discord Rich Presence
 - emoji shortcodes 
 - **extended mathJax** to create shortcuts for latex (`\newcommand`)
 - **spaced repetition** to get reminded to reread each note on the right day for your memory
