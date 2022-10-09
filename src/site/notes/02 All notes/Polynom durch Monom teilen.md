@@ -1,5 +1,5 @@
 ---
-{"Aliases":["division d'un polynôme par un monôme","schéma de Hörner"],"tags":["Analysis","LinA"],"dg-publish":true,"permalink":"/02-all-notes/polynom-durch-monom-teilen/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/polynom-durch-monom-teilen/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Polynom durch Monom teilen
