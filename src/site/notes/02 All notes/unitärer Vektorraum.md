@@ -1,5 +1,5 @@
 ---
-{"Aliases":["unitärer Raum","Prähilbertraum","Skalarproduktraum"],"tags":["LinA/euklidischeUnitäreVektorräume"],"dg-publish":true,"permalink":"/02-all-notes/unitaerer-vektorraum/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/unitaerer-vektorraum/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # unitärer Vektorraum
