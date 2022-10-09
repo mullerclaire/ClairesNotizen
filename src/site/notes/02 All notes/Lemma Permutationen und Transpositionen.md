@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/lemma-permutationen-und-transpositionen/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/lemma-permutationen-und-transpositionen/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Lemma Permutationen und Transpositionen
