@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/Diagonalisierbarkeit"],"dg-publish":true,"permalink":"/02-all-notes/jordansche-normalform-finden/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/jordansche-normalform-finden/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Jordansche Normalform finden
