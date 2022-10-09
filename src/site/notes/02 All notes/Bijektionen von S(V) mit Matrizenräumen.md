@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/euklidischeUnitäreVektorräume"],"dg-publish":true,"permalink":"/02-all-notes/bijektionen-von-s-v-mit-matrizenraeumen/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/bijektionen-von-s-v-mit-matrizenraeumen/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Bijektionen von S(V) mit Matrizenräumen
