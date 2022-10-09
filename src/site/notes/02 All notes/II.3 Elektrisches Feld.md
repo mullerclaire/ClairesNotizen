@@ -1,5 +1,5 @@
 ---
-{"Aliases":["elektrisches Feld"],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/ii-3-elektrisches-feld/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/ii-3-elektrisches-feld/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # II.3 Elektrisches Feld
