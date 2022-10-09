@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/entwicklungssatz-von-laplace/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/entwicklungssatz-von-laplace/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Entwicklungssatz von Laplace
