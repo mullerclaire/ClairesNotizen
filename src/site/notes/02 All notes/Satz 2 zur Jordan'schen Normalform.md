@@ -1,5 +1,5 @@
 ---
-{"Aliases":["Satz 2"],"tags":["LinA/Diagonalisierbarkeit"],"dg-publish":true,"permalink":"/02-all-notes/satz-2-zur-jordan-schen-normalform/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/satz-2-zur-jordan-schen-normalform/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Satz 2 zur Jordan'schen Normalform
