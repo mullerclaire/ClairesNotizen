@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["LinA/Diagonalisierbarkeit"],"dg-publish":true,"permalink":"/02-all-notes/lemma-zum-satz-1/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/lemma-zum-satz-1/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Lemma zum Satz 1
