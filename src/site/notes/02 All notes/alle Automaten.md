@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Theoretische-Informatik"],"dg-publish":true,"permalink":"/02-all-notes/alle-automaten/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/alle-automaten/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # alle Automaten
