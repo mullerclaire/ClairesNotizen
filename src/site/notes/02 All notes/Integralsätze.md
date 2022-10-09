@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/integralsaetze/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/integralsaetze/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Integralsätze
