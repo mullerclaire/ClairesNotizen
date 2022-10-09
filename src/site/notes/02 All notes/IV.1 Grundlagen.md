@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/iv-1-grundlagen/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/iv-1-grundlagen/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 [[02 All notes/Parallele und Unterschiede zwischen Elektrostatik und Magnetostatik|Parallele und Unterschiede zwischen Elektrostatik und Magnetostatik]]
