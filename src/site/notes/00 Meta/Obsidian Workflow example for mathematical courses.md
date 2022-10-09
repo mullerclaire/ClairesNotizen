@@ -1,5 +1,5 @@
 ---
-{"Aliases":["Obsidian Tutorial"],"tags":[null],"dg-publish":true,"dg-home-link":false,"permalink":"/00-meta/obsidian-workflow-example-for-mathematical-courses/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-meta/obsidian-workflow-example-for-mathematical-courses/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 # Obsidian Workflow example for mathematical courses
