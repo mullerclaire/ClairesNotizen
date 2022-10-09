@@ -1,5 +1,5 @@
 ---
-{"Aliases":["Determinante einer quadratischen Matrix"],"tags":["LinA/lineareGleichungssysteme"],"dg-publish":true,"permalink":"/02-all-notes/korollar-entwicklungssatz-von-laplace/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/korollar-entwicklungssatz-von-laplace/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Korollar Entwicklungssatz von Laplace
