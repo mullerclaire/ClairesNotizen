@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Aliases":["elektrostatisches Potential"],"tags":["Physik/Elektrodynamik"],"permalink":"/02-all-notes/ii-5-elektrostatisches-potential/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/ii-5-elektrostatisches-potential/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # II.5 Elektrostatisches Potential
