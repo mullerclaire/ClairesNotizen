@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"sr-due":"2022-09-29","sr-interval":4,"sr-ease":270,"permalink":"/02-all-notes/mathematische-grundlagen-fuer-die-elektrodynamik/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/mathematische-grundlagen-fuer-die-elektrodynamik/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Mathematische Grundlagen für die Elektrodynamik
