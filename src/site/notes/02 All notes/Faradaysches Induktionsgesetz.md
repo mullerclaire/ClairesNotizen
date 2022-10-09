@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":["Physik/Elektrodynamik"],"dg-publish":true,"permalink":"/02-all-notes/faradaysches-induktionsgesetz/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/faradaysches-induktionsgesetz/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Faradaysches Induktionsgesetz
