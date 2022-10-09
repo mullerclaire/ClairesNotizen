@@ -3,9 +3,9 @@
 ---
 
 # Randwertproblem mit Bildladungen lösen
-[[IMP/Elektrodynamik/Vorlesung/3 Randwertprobleme der Elektrostatik/III.1 Formulierung des Randwertproblems und Eindeutigkeit der Lösung|III.1 Formulierung des Randwertproblems und Eindeutigkeit der Lösung]]
-[[IMP/Elektrodynamik/Vorlesung/3 Randwertprobleme der Elektrostatik/III.3 Methode der Green'schen Funktion|III.3 Methode der Green'schen Funktion]]
-[[IMP/Elektrodynamik/Vorlesung/3 Randwertprobleme der Elektrostatik/III.4 Beispiele für Green'sche Funktionen|III.4 Beispiele für Green'sche Funktionen]]
+[[02 All notes/III.1 Formulierung des Randwertproblems und Eindeutigkeit der Lösung|III.1 Formulierung des Randwertproblems und Eindeutigkeit der Lösung]]
+[[02 All notes/III.3 Methode der Green'schen Funktion|III.3 Methode der Green'schen Funktion]]
+[[02 All notes/III.4 Beispiele für Green'sche Funktionen|III.4 Beispiele für Green'sche Funktionen]]
 
 Nolting Seite 116
 
