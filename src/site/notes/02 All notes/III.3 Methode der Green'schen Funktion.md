@@ -1,5 +1,5 @@
 ---
-{"Aliases":[],"tags":[null],"dg-publish":true,"permalink":"/02-all-notes/iii-3-methode-der-green-schen-funktion/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/iii-3-methode-der-green-schen-funktion/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # III.3 Methode der Green'schen Funktion
