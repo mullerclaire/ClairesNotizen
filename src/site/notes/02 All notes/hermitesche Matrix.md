@@ -1,5 +1,5 @@
 ---
-{"Aliases":["hermitesch"],"tags":["LinA/euklidischeUnitäreVektorräume"],"dg-publish":true,"permalink":"/02-all-notes/hermitesche-matrix/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/hermitesche-matrix/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # hermitesche Matrix
