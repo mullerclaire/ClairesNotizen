@@ -1,5 +1,5 @@
 ---
-{"Aliases":["orthogonal"],"tags":["LinA/euklidischeUnitäreVektorräume"],"dg-publish":true,"permalink":"/02-all-notes/orthogonale-matrix/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-all-notes/orthogonale-matrix/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # orthogonale Matrix
