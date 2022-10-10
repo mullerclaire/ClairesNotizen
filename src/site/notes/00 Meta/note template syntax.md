@@ -11,7 +11,7 @@ tags:
 - physics/example
 ---
 
-# {{title}}
+# title
 
 ---
 **Proof**
