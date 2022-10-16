@@ -12,3 +12,5 @@
 [[01 Maps of content/Analysis 2|Analysis 2]]
 [[01 Maps of content/Analysis 3|Analysis 3]]
 # Informatik
+[[01 Maps of content/Einführung in die formale Logik|Einführung in die formale Logik]]
+[[01 Maps of content/Einführung in die theoretische Informatik|Einführung in die theoretische Informatik]]
