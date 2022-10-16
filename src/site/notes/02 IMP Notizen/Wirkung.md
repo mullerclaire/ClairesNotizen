@@ -5,7 +5,7 @@
 
 # Wirkung
 
-Sei $G$ eine [[02 IMP Notizen/Gruppe|Gruppe]] mit Verknüpfung $\circ$ und neutralen Element $e$. 
+Sei $G$ eine [[02 IMP Notizen/Gruppe|Gruppe]] (Transformationsgruppe) mit Verknüpfung $\circ$ und neutralen Element $e$. 
 Sei $M$ eine Menge. 
 
 Eine Abbildung $G\times M\to M$ gegeben durch die Zuordnung $(g,m)\mapsto g\bullet m$, $g\in G, m\in M$ wird **Wirkung** oder **Operation der Gruppe $G$ auf der Menge $M$** genannt, falls die folgenden Eigenschaften erfüllt sind: 
