@@ -3,4 +3,4 @@
 ---
 
 # Determinante einer [[singuläre Matrix|singulären Matrix]]
-$$A \text{ singulär} \iff \det(A)\neq0.$$
+$$A \text{ singulär} \iff \det(A)=0.$$
