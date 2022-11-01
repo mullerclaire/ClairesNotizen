@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/ii-10-multipolentwicklung/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/ii-10-multipolentwicklung/"}
 ---
 
 # II.10 Multipolentwicklung
