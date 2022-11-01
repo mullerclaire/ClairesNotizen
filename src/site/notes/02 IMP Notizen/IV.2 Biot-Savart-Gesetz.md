@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/iv-2-biot-savart-gesetz/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/iv-2-biot-savart-gesetz/"}
 ---
 
 # IV.2 Biot-Savart-Gesetz
