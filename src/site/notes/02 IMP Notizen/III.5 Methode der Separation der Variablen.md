@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/iii-5-methode-der-separation-der-variablen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/iii-5-methode-der-separation-der-variablen/"}
 ---
 
 # III.5 Methode der Separation der Variablen
