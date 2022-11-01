@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/iv-1-grundlagen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/iv-1-grundlagen/"}
 ---
 
 [[02 IMP Notizen/Parallele und Unterschiede zwischen Elektrostatik und Magnetostatik|Parallele und Unterschiede zwischen Elektrostatik und Magnetostatik]]
