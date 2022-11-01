@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/korollar-des-satzes-aequivalenz-zur-diagonalisierbarkeit/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/korollar-des-satzes-aequivalenz-zur-diagonalisierbarkeit/"}
 ---
 
 # Korollar des Satzes Äquivalenz zur Diagonalisierbarkeit
