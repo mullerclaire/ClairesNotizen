@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/lemma-zum-satz-1/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/lemma-zum-satz-1/"}
 ---
 
 # Lemma zum Satz 1
