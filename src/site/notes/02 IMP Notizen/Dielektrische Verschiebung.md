@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/dielektrische-verschiebung/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/dielektrische-verschiebung/"}
 ---
 
 # Dielektrische Verschiebung
