@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/iii-8-kugelflaechenfunktionen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/iii-8-kugelflaechenfunktionen/"}
 ---
 
 # III.8 Kugelflächenfunktionen
