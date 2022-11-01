@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/ii-3-elektrisches-feld/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/ii-3-elektrisches-feld/"}
 ---
 
 # II.3 Elektrisches Feld
