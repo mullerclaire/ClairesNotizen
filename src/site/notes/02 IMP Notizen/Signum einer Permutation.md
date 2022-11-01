@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/signum-einer-permutation/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/signum-einer-permutation/"}
 ---
 
 # Signum einer [[02 IMP Notizen/Permutation|Permutation]]
