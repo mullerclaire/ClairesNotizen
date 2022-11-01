@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/iv-4-vektorpotential/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/iv-4-vektorpotential/"}
 ---
 
 # IV.4 Vektorpotential
