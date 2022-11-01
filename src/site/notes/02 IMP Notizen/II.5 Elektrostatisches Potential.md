@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/ii-5-elektrostatisches-potential/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/ii-5-elektrostatisches-potential/"}
 ---
 
 # II.5 Elektrostatisches Potential
