@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/determinante-der-transponierten-matrix/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/determinante-der-transponierten-matrix/"}
 ---
 
 # Determinante der [[02 IMP Notizen/transponierte Matrix|transponierten Matrix]]
