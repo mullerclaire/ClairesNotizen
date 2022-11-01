@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/iv-5-kraft-drehmoment-und-energie-des-b-feldes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/iv-5-kraft-drehmoment-und-energie-des-b-feldes/"}
 ---
 
 # IV.5 Kraft, Drehmoment und Energie des B-Feldes
