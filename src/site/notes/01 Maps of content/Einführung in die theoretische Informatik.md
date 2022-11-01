@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-maps-of-content/einfuehrung-in-die-theoretische-informatik/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/01-maps-of-content/einfuehrung-in-die-theoretische-informatik/"}
 ---
 
 # Einführung in die theoretische Informatik
