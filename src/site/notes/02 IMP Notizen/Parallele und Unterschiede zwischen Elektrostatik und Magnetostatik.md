@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/parallele-und-unterschiede-zwischen-elektrostatik-und-magnetostatik/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/parallele-und-unterschiede-zwischen-elektrostatik-und-magnetostatik/"}
 ---
 
 # Parallele und Unterschiede zwischen Elektrostatik und Magnetostatik
