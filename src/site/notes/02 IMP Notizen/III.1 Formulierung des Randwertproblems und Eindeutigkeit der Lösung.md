@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/iii-1-formulierung-des-randwertproblems-und-eindeutigkeit-der-loesung/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/iii-1-formulierung-des-randwertproblems-und-eindeutigkeit-der-loesung/"}
 ---
 
 # III.1 Formulierung des Randwertproblems und Eindeutigkeit der Lösung
