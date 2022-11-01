@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/energie-impuls-tensor-des-elektromagnetischen-feldes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/energie-impuls-tensor-des-elektromagnetischen-feldes/"}
 ---
 
 # Energie-Impuls-Tensor des elektromagnetischen Feldes
