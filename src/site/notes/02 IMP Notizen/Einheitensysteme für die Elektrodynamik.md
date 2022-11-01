@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/einheitensysteme-fuer-die-elektrodynamik/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/einheitensysteme-fuer-die-elektrodynamik/"}
 ---
 
 # Einheitensysteme für die Elektrodynamik
