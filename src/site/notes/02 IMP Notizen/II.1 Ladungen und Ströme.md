@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/ii-1-ladungen-und-stroeme/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/ii-1-ladungen-und-stroeme/"}
 ---
 
 # II.1 Ladungen und Ströme
