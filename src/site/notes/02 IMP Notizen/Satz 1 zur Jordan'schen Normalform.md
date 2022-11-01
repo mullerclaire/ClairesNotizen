@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/satz-1-zur-jordan-schen-normalform/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/satz-1-zur-jordan-schen-normalform/"}
 ---
 
 # Satz 1 zur Jordan'schen Normalform
@@ -14,7 +14,7 @@ Dann gilt:
 2. $V=\displaystyle\bigoplus_{j=1}^{r} H_{\lambda_{j}}$
 3. $f=f_{D}+f_{N}$, wobei $f_{D} \in \mathrm{L}(V)$ [[02 IMP Notizen/diagonalisierbar|diagonalisierbar]], $f_{N} \in \mathrm{L}(V)$ [[02 IMP Notizen/nilpotent|nilpotent]] und $f_{D} \circ f_{N}=$ $f_{N} \circ f_{D}$ ist.
 ____
-**Beachte:** Ist $K$ [[NEW/algebraisch abgeschlossen|algebraisch abgeschlossen]], so ist die Voraussetzung des Satzes automatisch erfullt.
+**Beachte:** Ist $K$ [[02 IMP Notizen/algebraisch abgeschlossen|algebraisch abgeschlossen]], so ist die Voraussetzung des Satzes automatisch erfullt.
 ___
 **Bemerkung:** Der vorhergehende Satz übersetzt sich wie folgt in die Sprache der Matrizen: Ist $A \in \mathrm{M}_{n}(K)$ und $p_{A}(t)=\pm\left(t-\lambda_{1}\right)^{\alpha_{1}} \cdot \ldots \cdot\left(t-\lambda_{r}\right)^{\alpha_{r}}$, so existiert $S \in \mathrm{GL}_{r}(K)$ mit
 $$
