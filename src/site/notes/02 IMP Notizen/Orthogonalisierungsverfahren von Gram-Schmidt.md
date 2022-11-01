@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/orthogonalisierungsverfahren-von-gram-schmidt/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/orthogonalisierungsverfahren-von-gram-schmidt/"}
 ---
 
 # Orthogonalisierungsverfahren von Gram-Schmidt
