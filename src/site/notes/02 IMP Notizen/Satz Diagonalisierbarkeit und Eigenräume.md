@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/satz-diagonalisierbarkeit-und-eigenraeume/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/satz-diagonalisierbarkeit-und-eigenraeume/"}
 ---
 
 # Satz [[02 IMP Notizen/diagonalisierbar|Diagonalisierbarkeit]] und [[02 IMP Notizen/Eigenraum|Eigenräume]]
