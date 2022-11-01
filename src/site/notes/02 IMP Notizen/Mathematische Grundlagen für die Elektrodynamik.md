@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/mathematische-grundlagen-fuer-die-elektrodynamik/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/mathematische-grundlagen-fuer-die-elektrodynamik/"}
 ---
 
 # Mathematische Grundlagen für die Elektrodynamik
