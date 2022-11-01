@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/dielektrizitaetskonstante-des-vakuums/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/dielektrizitaetskonstante-des-vakuums/"}
 ---
 
 # Dielektrizitätskonstante des Vakuums
