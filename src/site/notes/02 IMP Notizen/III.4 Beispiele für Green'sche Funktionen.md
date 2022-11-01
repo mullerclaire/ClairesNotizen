@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/iii-4-beispiele-fuer-green-sche-funktionen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/iii-4-beispiele-fuer-green-sche-funktionen/"}
 ---
 
 # III.4 Beispiele für Green'sche Funktionen
