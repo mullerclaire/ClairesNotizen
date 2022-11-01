@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/maxwell-gleichungen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/maxwell-gleichungen/"}
 ---
 
 # Maxwell-Gleichungen
