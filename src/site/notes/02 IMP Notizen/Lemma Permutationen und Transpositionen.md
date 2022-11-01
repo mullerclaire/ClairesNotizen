@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/lemma-permutationen-und-transpositionen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/lemma-permutationen-und-transpositionen/"}
 ---
 
 # Lemma Permutationen und Transpositionen
