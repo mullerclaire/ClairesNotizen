@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/algebraische-strukturen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/algebraische-strukturen/"}
 ---
 
 # 0. Gruppen, Ringe, Körper
