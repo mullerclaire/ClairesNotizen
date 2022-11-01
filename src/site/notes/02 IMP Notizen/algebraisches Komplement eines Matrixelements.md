@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/algebraisches-komplement-eines-matrixelements/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/algebraisches-komplement-eines-matrixelements/"}
 ---
 
 # algebraisches Komplement eines Matrixelements
