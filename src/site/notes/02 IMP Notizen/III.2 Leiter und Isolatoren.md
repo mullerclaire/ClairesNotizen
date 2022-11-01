@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/iii-2-leiter-und-isolatoren/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/iii-2-leiter-und-isolatoren/"}
 ---
 
 # III.2 Leiter und Isolatoren
