@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/elementare-spaltenumformung-s1/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/elementare-spaltenumformung-s1/"}
 ---
 
 # elementare Spaltenumformung (S1)
