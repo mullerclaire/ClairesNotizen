@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/eigenschaften-der-determinante/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/eigenschaften-der-determinante/"}
 ---
 
 # Eigenschaften der [[02 IMP Notizen/Determinante|Determinante]]
