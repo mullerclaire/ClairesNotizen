@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/elektro-und-magnetostatik-in-materie/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/elektro-und-magnetostatik-in-materie/"}
 ---
 
 # Elektro- und Magnetostatik in Materie
