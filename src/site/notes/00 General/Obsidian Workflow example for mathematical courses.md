@@ -47,6 +47,7 @@ For general information about how to use Obsidian, see https://help.obsidian.md
 ## Useful community plugins
 - advanced tables
 - calendar
+- periodic notes
 - checklist
 - clear unused images
 - **custom frames** for Moodle, MOOCs, Notion, any resource you use often: it lets you access it from your Obsidian vault, and use it without the disctractions of a browser. 
