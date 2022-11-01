@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/taylor-entwicklung-von-feldern/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/taylor-entwicklung-von-feldern/"}
 ---
 
 # Taylor Entwicklung von Feldern
