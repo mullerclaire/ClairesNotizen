@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/iii-3-methode-der-green-schen-funktion/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/iii-3-methode-der-green-schen-funktion/"}
 ---
 
 # III.3 Methode der Green'schen Funktion
@@ -7,11 +7,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 # Green'sche Funktion
