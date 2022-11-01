@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/viii-1-freie-wellengleichung/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/viii-1-freie-wellengleichung/"}
 ---
 
 # VIII.1 Freie Wellengleichung
