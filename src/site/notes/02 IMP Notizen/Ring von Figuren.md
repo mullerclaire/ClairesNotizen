@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/ring-von-figuren/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/ring-von-figuren/"}
 ---
 
 # Ring von Figuren 
@@ -10,5 +10,5 @@ Dann ist $\mathcal{R}$ ein Ring, aber keine $\sigma$-Algebra.
 
 ---
 Siehe auch:
-- [[02 IMP Notizen/Sigma-Algebra|Sigma-Algebra]]
+- [[02 IMP Notizen/σ-Algebra|σ-Algebra]]
 - [[02 IMP Notizen/Figur|Figur]]
