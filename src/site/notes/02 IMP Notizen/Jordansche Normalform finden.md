@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/jordansche-normalform-finden/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/jordansche-normalform-finden/"}
 ---
 
 # Jordansche Normalform finden
