@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-maps-of-content/lineare-algebra/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/01-maps-of-content/lineare-algebra/"}
 ---
 
 # Lineare Algebra
