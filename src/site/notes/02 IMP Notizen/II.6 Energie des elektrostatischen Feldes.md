@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/ii-6-energie-des-elektrostatischen-feldes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/ii-6-energie-des-elektrostatischen-feldes/"}
 ---
 
 # II.6 Energie des elektrostatischen Feldes
