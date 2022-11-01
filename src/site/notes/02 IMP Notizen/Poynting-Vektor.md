@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/poynting-vektor/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/poynting-vektor/"}
 ---
 
 # Poynting-Vektor (Energiestromvektor)
