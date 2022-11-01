@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/ii-7-kugelsymmetrische-ladungsverteilung/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/ii-7-kugelsymmetrische-ladungsverteilung/"}
 ---
 
 # II.7 Kugelsymmetrische Ladungsverteilung
