@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/alle-automaten/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/alle-automaten/"}
 ---
 
 # alle Automaten
@@ -7,11 +7,7 @@
 Endlicher Automat: 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 # 
 Ein endlicher Automat (**DFA** - Deterministic finite automation) wird durch ein 5-Tupel $M=(Z,\Sigma,\delta,q_0,E)$ beschrieben: 
@@ -32,11 +28,7 @@ Nummer:
 Nichtdeterministischer endlicher Automat: 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 # 
 Ein nichtdeterministischer endlicher Automat (**NFA** - nondeterministic finite automaton) $N=(Z,\Sigma,\Delta,Q_0,E)$ ist ähnlich gebaut wie ein [[02 IMP Notizen/DFA|DFA]], 
@@ -71,11 +63,7 @@ Nummer:
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 # Kellerautomat mit Endzuständen (Final State PushDown Automaton)
 
@@ -99,11 +87,7 @@ Nummer:
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 # ES-PDA oder PDA (EmptyStack PushDown Automaton)
 
@@ -122,11 +106,7 @@ Nummer:
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 # deterministisches ES-PDA oder FS-PDA (DPDA)
 Sei $M$ ein [[02 IMP Notizen/FS-PDA|FS-PDA]] oder [[02 IMP Notizen/PDA|PDA]]. $M$ heißt deterministisch, falls $\vdash$ (Übergang zur Folgekonfiguration) eine [[02 IMP Notizen/rechtseindeutige Relation|rechtseindeutige Relation]] ist. 
@@ -144,11 +124,7 @@ Nummer: Def 107
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 # nichtdeterministische k-Band-Turingmaschine
 
@@ -170,11 +146,7 @@ Nummer: Def 116, S. 47
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 # k-DTM
 
@@ -189,11 +161,7 @@ Nummer:
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 # Linear beschränkter Automat
 Eine 1-[[02 IMP Notizen/k-NTM|NTM]] $M=(Z,\hat\Sigma,\Gamma,\delta,q_0,E)$ heißt **linear beschränkt**, falls $M$ bei jeder Eingabe $\hat{x}$ der Länge $n\geq1$ höchstens $n$ Bandfelder besucht: $\forall x \in \Sigma^{+}: K_{\hat{x}} \vdash^{*} u q a v \Rightarrow|u a v| \leq|x|$
@@ -208,11 +176,7 @@ Nummer:
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 # DLBA
 Ein deterministisches [[02 IMP Notizen/LBA|LBA]] wird als **DLBA** bezeichnet.
