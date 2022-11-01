@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/ii-2-coulombgesetz/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/ii-2-coulombgesetz/"}
 ---
 
 # II.2 Coulombgesetz
@@ -19,11 +19,7 @@ $$\vec F=-\vec F' = k\frac{qq'(\vec x-\vec x')}{|\vec x-\vec x'
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 # Einheitensysteme für die Elektrodynamik
