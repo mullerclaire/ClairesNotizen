@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/determinante-einer-oberen-dreiecksmatrix/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/determinante-einer-oberen-dreiecksmatrix/"}
 ---
 
 # Determinante einer oberen Dreiecksmatrix
