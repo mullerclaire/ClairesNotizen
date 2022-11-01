@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/i-3-beschleunigte-bezugssysteme/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/i-3-beschleunigte-bezugssysteme/"}
 ---
 
 # I.3 Beschleunigte Bezugssysteme
