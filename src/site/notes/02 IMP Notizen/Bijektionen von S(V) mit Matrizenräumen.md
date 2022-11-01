@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/bijektionen-von-s-v-mit-matrizenraeumen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/bijektionen-von-s-v-mit-matrizenraeumen/"}
 ---
 
 # Bijektionen von S(V) mit Matrizenräumen
