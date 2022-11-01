@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/diagonalisierung-durch-orthogonale-oder-unitaere-matrizen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/diagonalisierung-durch-orthogonale-oder-unitaere-matrizen/"}
 ---
 
 # Diagonalisierung durch [[02 IMP Notizen/orthogonale Matrix|orthogonale]] oder [[02 IMP Notizen/unitäre Matrix|unitäre]] Matrizen
