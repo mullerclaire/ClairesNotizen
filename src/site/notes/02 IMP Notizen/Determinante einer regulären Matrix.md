@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/determinante-einer-regulaeren-matrix/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/determinante-einer-regulaeren-matrix/"}
 ---
 
 # Determinante einer [[reguläre Matrix|regulären Matrix]]
