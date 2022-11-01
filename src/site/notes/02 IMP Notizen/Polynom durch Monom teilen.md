@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/polynom-durch-monom-teilen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/polynom-durch-monom-teilen/"}
 ---
 
 # Polynom durch Monom teilen
