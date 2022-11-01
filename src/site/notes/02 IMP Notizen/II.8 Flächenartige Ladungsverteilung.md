@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/ii-8-flaechenartige-ladungsverteilung/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/ii-8-flaechenartige-ladungsverteilung/"}
 ---
 
 # II.8 Flächenartige Ladungsverteilung
