@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/satz-2-zur-jordan-schen-normalform/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/satz-2-zur-jordan-schen-normalform/"}
 ---
 
 # Satz 2 zur Jordan'schen Normalform
