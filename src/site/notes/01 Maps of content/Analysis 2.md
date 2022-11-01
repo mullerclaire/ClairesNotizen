@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-maps-of-content/analysis-2/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/01-maps-of-content/analysis-2/"}
 ---
 
 # Analysis 2
