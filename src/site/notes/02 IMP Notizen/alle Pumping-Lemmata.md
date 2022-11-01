@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-imp-notizen/alle-pumping-lemmata/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/02-imp-notizen/alle-pumping-lemmata/"}
 ---
 
 # alle Pumping-Lemmata
