@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-maps-of-content/einfuehrung-in-die-formale-logik/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/01-maps-of-content/einfuehrung-in-die-formale-logik/"}
 ---
 
 # Einführung in die formale Logik
