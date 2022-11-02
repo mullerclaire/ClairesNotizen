@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/optik/"}
 ---
 
-
 # Optik
 ## 1. Einführung
 ## 2. von Maxwell zu Helmholtz
