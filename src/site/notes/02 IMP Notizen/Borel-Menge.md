@@ -3,4 +3,4 @@
 ---
 
 # Borel-Menge
-Element einer [[02 IMP Notizen/Borelsche Sigma-Algebra|Borelsche Sigma-Algebra]]. 
+Element einer [[02 IMP Notizen/Borelsche Sigma-Algebra\|Borelsche Sigma-Algebra]]. 
