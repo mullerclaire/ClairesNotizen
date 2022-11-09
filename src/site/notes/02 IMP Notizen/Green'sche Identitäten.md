@@ -18,7 +18,7 @@ $$
 wobei
 - $\mathrm{d}f=|\mathrm{d}\vec f|$ und 
 - $\displaystyle\frac{\partial\psi}{\partial n}=\vec\nabla\psi\cdot\vec n(\vec x)$ (Normalableitung)
-- mit [[02 IMP Notizen/Flächenintegral#Flächennormale|Flächennormale]] $\mathrm{d}\vec f=\mathrm{d}f\vec{n}(\vec{x})$. 
+- mit [[02 IMP Notizen/Flächenintegral#Flächennormale\|Flächennormale]] $\mathrm{d}\vec f=\mathrm{d}f\vec{n}(\vec{x})$. 
 
 ```ad-equation
 title: Zweite Green'sche Identität
