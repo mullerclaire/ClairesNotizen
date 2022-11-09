@@ -9,7 +9,7 @@
 
 
 ## Konstruktion der Poisson-Gleichung
-Wenn man in den 2 Maxwell-Gleichungen der Elektrostatik das Potential $-\vec\nabla\phi(\vec x)$ einsetzt ergibt sich die **[[Poisson-Gleichung|Poisson-Gleichung]]**: 
+Wenn man in den 2 Maxwell-Gleichungen der Elektrostatik das Potential $-\vec\nabla\phi(\vec x)$ einsetzt ergibt sich die **[[Poisson-Gleichung\|Poisson-Gleichung]]**: 
 ```ad-equation
 title: Poisson-Gleichung 🐟
 
