@@ -4,7 +4,7 @@
 
 # Orthogonalisierungsverfahren von Gram-Schmidt
 
-Es sei $V$ ein $n$-dimensionaler [[02 IMP Notizen/euklidischer Vektorraum|euklidischer Vektorraum]] bzw. [[02 IMP Notizen/unitärer Vektorraum|unitärer Vektorraum]]. Dann besitzt $V$ eine [[02 IMP Notizen/Orthonormalbasis|Orthonormalbasis]]. 
+Es sei $V$ ein $n$-dimensionaler [[02 IMP Notizen/euklidischer Vektorraum\|euklidischer Vektorraum]] bzw. [[02 IMP Notizen/unitärer Vektorraum\|unitärer Vektorraum]]. Dann besitzt $V$ eine [[02 IMP Notizen/Orthonormalbasis\|Orthonormalbasis]]. 
 
 **Beweis**
 Es sei $\mathcal{B}=\left\{b_{1}, \ldots, b_{n}\right\}$ eine beliebige Basis von $V$. Zuerst setzen wir
@@ -32,7 +32,7 @@ $$
 e_{2}:=\frac{1}{\left\|e_{2}^{\prime}\right\|} e_{2}^{\prime}
 $$
 setzen, erhalten wir einen zu $e_{1}$ orthogonalen, normierten Vektor $e_{2}$.
-Induktiv konstruieren wir auf diese Weise ein [[02 IMP Notizen/Orthonormalsystem|Orthonormalsystem]] $\left\{e_{1}, \ldots, e_{m}\right\}$, wobei $1 \leq m<n$ gilt. Den nächsten Basisvektor $e_{m+1}$ konstruieren wir wie zuvor durch den Ansatz
+Induktiv konstruieren wir auf diese Weise ein [[02 IMP Notizen/Orthonormalsystem\|Orthonormalsystem]] $\left\{e_{1}, \ldots, e_{m}\right\}$, wobei $1 \leq m<n$ gilt. Den nächsten Basisvektor $e_{m+1}$ konstruieren wir wie zuvor durch den Ansatz
 $$
 e_{m+1}^{\prime}:=b_{m+1}-\lambda_{1} e_{1}-\ldots-\lambda_{m} e_{m}
 $$
@@ -47,4 +47,4 @@ Aufgrund der linearen Unabhängigkeit von $b_{1}, \ldots, b_{m+1}$ ist $e_{m+1}^
 $$
 e_{m+1}:=\frac{1}{\left\|e_{m+1}^{\prime}\right\|} e_{m+1}^{\prime}
 $$
-setzen, erhalten wir einen zu $e_{1}, \ldots, e_{m}$ [[02 IMP Notizen/orthogonal|orthogonal]]en, [[02 IMP Notizen/normiert|normiert]]en Vektor $e_{m+1}$. Nach $n$ Schritten erhält man endlich die gesuchte Orthonormalbasis $\left\{e_{1}, \ldots, e_{n}\right\}$.
+setzen, erhalten wir einen zu $e_{1}, \ldots, e_{m}$ [[02 IMP Notizen/orthogonal\|orthogonal]]en, [[02 IMP Notizen/normiert\|normiert]]en Vektor $e_{m+1}$. Nach $n$ Schritten erhält man endlich die gesuchte Orthonormalbasis $\left\{e_{1}, \ldots, e_{n}\right\}$.
