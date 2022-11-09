@@ -14,9 +14,9 @@ Mit der Randbedingung $\phi(\infty)=0$ und der Stetigkeit bei $r=R$ haben wir f�
 \frac{1}{r} & \text { für } r>R
 \end{array}\right.$$
 ## II.7.2 Homogen geladene Kugeloberfläche
-[[02 IMP Notizen/Ladungsdichte|Ladungsdichte]]: $\rho(r)=\sigma\delta(r-R)$.
+[[02 IMP Notizen/Ladungsdichte\|Ladungsdichte]]: $\rho(r)=\sigma\delta(r-R)$.
 Flächenladungsdichte: $\si=\frac{Q}{4\pi R^2}$
-![[Pasted image 20220302095239.png|Pasted image 20220302095239.png]]
+![[Pasted image 20220302095239.png\|Pasted image 20220302095239.png]]
 
 
 
