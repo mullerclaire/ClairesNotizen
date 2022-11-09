@@ -12,7 +12,7 @@
 
 ^029d22
 
-Das [[02 IMP Notizen/Ampere'sche Gesetz|Ampere'sche Gesetz]] ist das Parallel des [[02 IMP Notizen/II.2 Coulombgesetz|Coulomb-Gesetzes]] in der Magnetostatik. Es geht um die Wechselwirkung zwischen zwei geschlossene Stromschleifen $(C_1,I_1)$ und $(C_2,I_2)$: 
+Das [[02 IMP Notizen/Ampere'sche Gesetz\|Ampere'sche Gesetz]] ist das Parallel des [[02 IMP Notizen/II.2 Coulombgesetz\|Coulomb-Gesetzes]] in der Magnetostatik. Es geht um die Wechselwirkung zwischen zwei geschlossene Stromschleifen $(C_1,I_1)$ und $(C_2,I_2)$: 
 ```ad-equation
 title: Ampere'sches Gesetz (1)
 
