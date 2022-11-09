@@ -8,7 +8,7 @@ $$f(x)=\sum_{n=0}^N\frac{1}{n!}f^{(n)}(x_0)(x-x_0)^n+R_N(x-x_0)$$
 
 ## Taylor-Entwicklung von Feldern (mehrere Variablen)
 
-Sei $\p(\vec x)$ ein [[Skalarfeld|Skalarfeld]]. Wir wollen $\p(\vec x+\Delta\vec x)$ entwickeln. 
+Sei $\p(\vec x)$ ein [[Skalarfeld\|Skalarfeld]]. Wir wollen $\p(\vec x+\Delta\vec x)$ entwickeln. 
 
 ```ad-equation
 title: Taylor-Entwicklung für skalare Felder
