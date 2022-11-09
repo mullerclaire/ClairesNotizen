@@ -38,7 +38,7 @@ $$
 m_A(t)=(t-2)^3 .
 $$
 
-Mit den Bezeichnungen des [[02 IMP Notizen/Satz 2 zur Jordan'schen Normalform|vorhergehenden Satzes]] haben wir
+Mit den Bezeichnungen des [[02 IMP Notizen/Satz 2 zur Jordan'schen Normalform\|vorhergehenden Satzes]] haben wir
 $$
 \begin{aligned}
 &U_0=\{0\} \\
