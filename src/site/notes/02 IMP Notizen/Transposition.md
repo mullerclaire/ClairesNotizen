@@ -3,7 +3,7 @@
 ---
 
 # Transposition
-Eine [[02 IMP Notizen/Permutation|Permutation]] $\tau \in S_n$, durch die zwei Elemente vertauscht werden und alle übrigen festgehalten werden, heißt **Transposition**. Ist $\tau$ gegeben durch das Zahlenschema
+Eine [[02 IMP Notizen/Permutation\|Permutation]] $\tau \in S_n$, durch die zwei Elemente vertauscht werden und alle übrigen festgehalten werden, heißt **Transposition**. Ist $\tau$ gegeben durch das Zahlenschema
 $$
 \left(\begin{array}{ccccccc}
 1 & \ldots & k_1 & \ldots & k_2 & \ldots & n \\
