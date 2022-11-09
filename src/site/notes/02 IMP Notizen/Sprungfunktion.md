@@ -15,7 +15,7 @@ $$\theta(x):=\lim_{\epsilon\to0}G(x,\epsilon)=\begin{cases}1 & x>0\\ 0 & x<0\end
 
 ```
 
-## Definition als Integral über die [[02 IMP Notizen/Deltafunktion|Deltafunktion]]
+## Definition als Integral über die [[02 IMP Notizen/Deltafunktion\|Deltafunktion]]
 Es gilt: 
 $$\theta(x)=\int_{-\infty}^x\mathrm{d}x'\delta(x')$$ und
 ```ad-equation
