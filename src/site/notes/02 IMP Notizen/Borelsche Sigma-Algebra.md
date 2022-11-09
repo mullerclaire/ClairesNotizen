@@ -17,5 +17,5 @@ Die Elemente davon sind die ==Borelmengen==.
 
 ___
 Tags: #Analysis/MaßundIntegrationstheorie/2-sigma-Algebren 
-Links: [[02 IMP Notizen/kompakt|kompakt]], [[02 IMP Notizen/offene Menge|offene Menge]], [[02 IMP Notizen/geschlossene Menge|geschlossene Menge]]
+Links: [[02 IMP Notizen/kompakte Menge\|kompakte Menge]], [[02 IMP Notizen/offene Menge\|offene Menge]], [[02 IMP Notizen/geschlossene Menge\|geschlossene Menge]]
 Nummer: Def I.2.4
