@@ -3,4 +3,4 @@
 ---
 
 # vollständiger Maßraum
-hier ist jede Teilmenge einer [[02 IMP Notizen/mu-Nullmenge|Nullmenge]] selbst eine Nullmenge.
+hier ist jede Teilmenge einer [[02 IMP Notizen/mu-Nullmenge\|Nullmenge]] selbst eine Nullmenge.
