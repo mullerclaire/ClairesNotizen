@@ -11,9 +11,9 @@ eine 2-stellige relation $R\subseteq M\times M$
 
 **Notation:** $x\sim y\iff(x,y)\in R$
 
-[[02 IMP Notizen/Äquivalenzklasse|Äquivalenzklasse]]
+[[02 IMP Notizen/Äquivalenzklasse\|Äquivalenzklasse]]
 
 #### Beispiele: 
 - gleichheit
 - gleichmächtigkeit
-- logische [[02 IMP Notizen/logische Äquivalenz|Äquivalenz]] 
+- logische [[02 IMP Notizen/logische Äquivalenz\|Äquivalenz]] 
