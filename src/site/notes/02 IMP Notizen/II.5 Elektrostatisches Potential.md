@@ -4,7 +4,7 @@
 
 # II.5 Elektrostatisches Potential
 ### Exaktheit
-Die  [[02 IMP Notizen/II.3 Elektrisches Feld#^ef1230|zweite differentielle Eigenschaft]] $\vec\nabla\times\vec E=\vec 0$ des [[02 IMP Notizen/II.3 Elektrisches Feld#^0deff7|elektrischen Feldes]] gilt exakt. Dies folgt aus dem [[02 IMP Notizen/Stoke'scher Satz|Stoke'schen Satz]]: siehe [[02 IMP Notizen/Stoke'scher Satz#^9e8ef4|Beispiel]]. 
+Die  [[02 IMP Notizen/II.3 Elektrisches Feld#^ef1230\|zweite differentielle Eigenschaft]] $\vec\nabla\times\vec E=\vec 0$ des [[02 IMP Notizen/II.3 Elektrisches Feld#^0deff7\|elektrischen Feldes]] gilt exakt. Dies folgt aus dem [[02 IMP Notizen/Stoke'scher Satz\|Stoke'schen Satz]]: siehe [[02 IMP Notizen/Stoke'scher Satz#^9e8ef4\|Beispiel]]. 
 
 ## $\vec E$ und $\varphi$ 
 $\vec E(\vec x)$ ist ein _konservatives Feld_ und besitzt ein **elektrostatisches Potential**: 
@@ -57,7 +57,7 @@ $$\oint_\gamma\mathrm{d}\vec x\cdot\vec E=\vec 0$$
 
 ```
 ## Konstruktion der Poisson-Gleichung
-Wenn man in den 2 Maxwell-Gleichungen der Elektrostatik das Potential $-\vec\nabla\phi(\vec x)$ einsetzt ergibt sich die **[[Poisson-Gleichung|Poisson-Gleichung]]**: 
+Wenn man in den 2 Maxwell-Gleichungen der Elektrostatik das Potential $-\vec\nabla\phi(\vec x)$ einsetzt ergibt sich die **[[Poisson-Gleichung\|Poisson-Gleichung]]**: 
 ```ad-equation
 title: Poisson-Gleichung 🐟
 
