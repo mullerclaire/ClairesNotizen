@@ -3,7 +3,7 @@
 ---
 
 # IV.5 Kraft, Drehmoment und Energie des B-Feldes
-Im Raum wirkt eine gegebene magnetische Induktion $\vec B(\vec x)$ mit einer Kraft $\vec F=\displaystyle\int\d^3x\,\vec j(\vec x)\times\vec B(\vec x)$ und einem [[02 IMP Notizen/Drehmoment|Drehmoment]] $\vec M= \displaystyle\int\d^3x\,\vec x\times\left(\vec j(\vec x)\times\vec B(\vec x)\right)$ auf eine [[02 IMP Notizen/Stromdichte|Stromdichte]]. 
+Im Raum wirkt eine gegebene magnetische Induktion $\vec B(\vec x)$ mit einer Kraft $\vec F=\displaystyle\int\d^3x\,\vec j(\vec x)\times\vec B(\vec x)$ und einem [[02 IMP Notizen/Drehmoment\|Drehmoment]] $\vec M= \displaystyle\int\d^3x\,\vec x\times\left(\vec j(\vec x)\times\vec B(\vec x)\right)$ auf eine [[02 IMP Notizen/Stromdichte\|Stromdichte]]. 
 
 ### homogenes $\vec B$-Feld ($\vec B=\vec B_0=const.$)
 
