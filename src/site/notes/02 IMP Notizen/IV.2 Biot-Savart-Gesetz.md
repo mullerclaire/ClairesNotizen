@@ -7,7 +7,7 @@
 
 ^029d22
 
-Das [[02 IMP Notizen/Ampere'sche Gesetz|Ampere'sche Gesetz]] ist das Parallel des [[02 IMP Notizen/II.2 Coulombgesetz|Coulomb-Gesetzes]] in der Magnetostatik. Es geht um die Wechselwirkung zwischen zwei geschlossene Stromschleifen $(C_1,I_1)$ und $(C_2,I_2)$: 
+Das [[02 IMP Notizen/Ampere'sche Gesetz\|Ampere'sche Gesetz]] ist das Parallel des [[02 IMP Notizen/II.2 Coulombgesetz\|Coulomb-Gesetzes]] in der Magnetostatik. Es geht um die Wechselwirkung zwischen zwei geschlossene Stromschleifen $(C_1,I_1)$ und $(C_2,I_2)$: 
 ```ad-equation
 title: Ampere'sches Gesetz (1)
 
@@ -18,7 +18,7 @@ $$\vec F_{12}=\frac{\mu_0I_1I_2}{4\pi}\oint_{C_1}\oint_{C_2}\frac{\d\vec x_1\tim
 Die Ströme sind konstant (statik). 
 
 ### magnetische Feldkonstante
-Im Ampere'schen Gesetz wird die **magnetische Feldkonstante** (Permeabilität des Vakuums) benutzt: $$\mu_0=4\pi\cdot10^{-7}\frac{\mathrm{kg\cdot m}}{\mathrm{A^2s^2}},$$ die folgende Beziehung erfüllt: $$\e_0\cdot\mu_0=\frac{1}{c^2}.$$ Siehe [[02 IMP Notizen/Dielektrizitätskonstante des Vakuums|Dielektrizitätskonstante des Vakuums]] für $\e_0$. 
+Im Ampere'schen Gesetz wird die **magnetische Feldkonstante** (Permeabilität des Vakuums) benutzt: $$\mu_0=4\pi\cdot10^{-7}\frac{\mathrm{kg\cdot m}}{\mathrm{A^2s^2}},$$ die folgende Beziehung erfüllt: $$\e_0\cdot\mu_0=\frac{1}{c^2}.$$ Siehe [[02 IMP Notizen/Dielektrizitätskonstante des Vakuums\|Dielektrizitätskonstante des Vakuums]] für $\e_0$. 
 
 ### Alternative Darstellung
 Nach Umschreiben (siehe ED S. 56): 
