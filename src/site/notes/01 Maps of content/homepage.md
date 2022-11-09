@@ -3,7 +3,7 @@
 ---
 
 
-[[00 General/Obsidian Workflow example for mathematical courses|Obsidian Workflow example for mathematical courses]]
+[[00 General/Obsidian Workflow example for mathematical courses\|Obsidian Workflow example for mathematical courses]]
 
 
 
