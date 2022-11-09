@@ -4,6 +4,6 @@
 
 # Korollar des Satzes Äquivalenz zur Diagonalisierbarkeit
 
-Sei $f\in L(V)$ ein Endomorphismus mit $n=\dim_K(V)$ paarweise verschiedene [[02 IMP Notizen/Eigenwert|Eigenwert]]en. 
+Sei $f\in L(V)$ ein Endomorphismus mit $n=\dim_K(V)$ paarweise verschiedene [[02 IMP Notizen/Eigenwert\|Eigenwert]]en. 
 
-Dann ist $f$ [[02 IMP Notizen/diagonalisierbar|diagonalisierbar]]. 
+Dann ist $f$ [[02 IMP Notizen/diagonalisierbar\|diagonalisierbar]]. 
