@@ -3,9 +3,9 @@
 ---
 
 # Einheitengruppe
-- Die **Einheitengruppe** eines [[02 IMP Notizen/Ring|Rings]] mit Einselement ist die Menge aller mutiplikativ invertierbaren Elemente dieses Rings 
+- Die **Einheitengruppe** eines [[02 IMP Notizen/Ring\|Rings]] mit Einselement ist die Menge aller mutiplikativ invertierbaren Elemente dieses Rings 
 - Operation: Ringmultiplikation
 
 ---
 Siehe auch:
-- [[02 IMP Notizen/Gruppe|Gruppe]]
+- [[02 IMP Notizen/Gruppe\|Gruppe]]
