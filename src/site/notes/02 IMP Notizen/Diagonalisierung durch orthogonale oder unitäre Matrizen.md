@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-imp-notizen/diagonalisierung-durch-orthogonale-oder-unitaere-matrizen/"}
 ---
 
-# Diagonalisierung durch [[02 IMP Notizen/orthogonale Matrix|orthogonale]] oder [[02 IMP Notizen/unitäre Matrix|unitäre]] Matrizen
+# Diagonalisierung durch [[02 IMP Notizen/orthogonale Matrix\|orthogonale]] oder [[02 IMP Notizen/unitäre Matrix\|unitäre]] Matrizen
 1. Es sei $A \in \operatorname{Sym}_{n}(\mathbf{R})$. Dann existiert $S \in \mathrm{O}_{n}(\mathbf{R})$ mit
 $$
 S^{-1} \cdot A \cdot S= S^t\cdot A\cdot S= \left(\begin{array}{ccc}
