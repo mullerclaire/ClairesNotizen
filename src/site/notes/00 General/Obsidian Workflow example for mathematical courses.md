@@ -22,7 +22,7 @@ For general information about how to use Obsidian, see https://help.obsidian.md
 
 ## Metadata, tags and templates
 - To use **templates**, activate the plugin in the `settings > core plugins`. 
-- [[00 General/note template syntax|This]] is the template I use for a template about a single theorem/definition. Sometimes, I add remarks about the concept or examples (from the lecturer or my own) inside the same note, separated with a `---`. For theorems I might add a proof, also visually separated. 
+- [[00 General/note template syntax\|This]] is the template I use for a template about a single theorem/definition. Sometimes, I add remarks about the concept or examples (from the lecturer or my own) inside the same note, separated with a `---`. For theorems I might add a proof, also visually separated. 
 - In the top of the template, there is a frontmatter that lets you enter other names for the note, and tags. The tags are simply the location of that definition/theorem in each university course. For example if I saw a concept in my logics class, but also in my linear algebra class, then the note could have both tags `#linearAlgebra/vectorSpaces`and `#logic`. See Obsidian help for more information about Tags and YAML Frontmatter. 
 - Writing in LaTeX can take a lot of time, and some definitions are not worth taking the time to copy them (if you already know them well), but are still worth keeping in your vault. To save time on those notes you can use the software MathPix, which lets you take a picture of an equation (even handwritten!) and transform it automatically into a LaTeX text. 
 
@@ -52,8 +52,10 @@ For general information about how to use Obsidian, see https://help.obsidian.md
 - clear unused images
 - **custom frames** for Moodle, MOOCs, Notion, any resource you use often: it lets you access it from your Obsidian vault, and use it without the disctractions of a browser. 
 - Discord Rich Presence
+- **Dataview**
 - emoji shortcodes 
 - **extended mathJax** to create shortcuts for latex (`\newcommand`)
+- Homepage (to make a dashboard and open it on startup)
 - **spaced repetition** to get reminded to reread each note on the right day for your memory
 - **Tag wrangler** to rename and merge tags and improve the tag search 
 
