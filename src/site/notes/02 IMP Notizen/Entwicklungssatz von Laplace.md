@@ -22,5 +22,5 @@ $$
 $$
 ___
 Enthält: 
-- [[02 IMP Notizen/Adjunkte|Minor]]
-- [[02 IMP Notizen/algebraisches Komplement eines Matrixelements|algebraisches Komplement eines Matrixelements]]
+- [[02 IMP Notizen/Adjunkte\|Minor]]
+- [[02 IMP Notizen/algebraisches Komplement eines Matrixelements\|algebraisches Komplement eines Matrixelements]]
