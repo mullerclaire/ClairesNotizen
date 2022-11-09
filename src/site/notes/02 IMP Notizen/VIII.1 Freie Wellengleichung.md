@@ -18,10 +18,10 @@ $\vec E$ und $\vec B$ sind in diesen Gleichungen über ihre Rotationen gekoppelt
 $\begin{aligned} 0 &=\vec{\nabla} \times\left(\vec{\nabla} \times \vec{E}+\partial_{t} \vec{B}\right) \\ &=\vec{\nabla}(\vec{\nabla} \cdot \vec{E})-\Delta \vec{E}+\frac{n^{2}}{c^{2}} \partial_{t}^{2} \vec{E}=\left(\frac{n^{2}}{c^{2}} \partial_{t}^{2}-\Delta\right) \vec{E} \\ 0 &=\vec{\nabla} \times\left(\vec{\nabla} \times \vec{B}-\frac{n^{2}}{c^{2}} \partial_{t} \vec{E}\right) \\ &=\vec{\nabla}(\vec{\nabla} \cdot \vec{B})-\Delta \vec{B}+\frac{n^{2}}{c^{2}} \partial_{t}^{2} \vec{B}=\left(\frac{n^{2}}{c^{2}} \partial_{t}^{2}-\Delta\right) \vec{B} \end{aligned}$
 
 Das heißt, beide Felder erfüllen identische freie Wellengleichungen: 
-$$\square\vec E=0$$ und $$\square\vec B=0$$ mit dem [[02 IMP Notizen/Nabla-Operatoren#D'Alembert-Operator|D'alembert-Operator]] $\square$.
+$$\square\vec E=0$$ und $$\square\vec B=0$$ mit dem [[02 IMP Notizen/Nabla-Operatoren#D'Alembert-Operator\|D'alembert-Operator]] $\square$.
 
 Bemerkungen zum Medium: 
 - Hier wurde $n=1$ (Vakuum) gesetzt. 
 - Übergang zu Wellen in homogenen linearen Medien: Änderung der Ausbreitungsgeschwindigkeit $c\to u=\frac{c}{n}$. 
 
-Das heißt, $\vec E$, $\vec B$ und $A^\mu$ ([[Lorenz-Eichung|Lorenz-Eichung]]) erfüllen dieselbe freie (od. homogene) Wellengleichung $\square\psi(\vec x,t)=0$. 
+Das heißt, $\vec E$, $\vec B$ und $A^\mu$ ([[Lorenz-Eichung\|Lorenz-Eichung]]) erfüllen dieselbe freie (od. homogene) Wellengleichung $\square\psi(\vec x,t)=0$. 
