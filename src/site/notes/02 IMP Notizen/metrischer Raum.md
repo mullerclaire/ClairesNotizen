@@ -3,4 +3,4 @@
 ---
 
 # metrischer Raum
-Ein Paar $(X,d)$ mit $X$ nicht-leere Menge und $d: X\times X \to \mathbb{R}$ eine [[02 IMP Notizen/Metrik|Metrik]]. 
+Ein Paar $(X,d)$ mit $X$ nicht-leere Menge und $d: X\times X \to \mathbb{R}$ eine [[02 IMP Notizen/Metrik\|Metrik]]. 
