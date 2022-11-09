@@ -4,7 +4,7 @@
 
 
 # Dirac'sche Deltafunktion
-Die Delta-Funktion ist eine [[Distribution|Distribution]], die man benutzt, um Punktteilchen zu repräsentieren. 
+Die Delta-Funktion ist eine [[Distribution\|Distribution]], die man benutzt, um Punktteilchen zu repräsentieren. 
 
 ## Beispiel der Punktmasse in der Mechanik
 In der Mechanik hat man den Spezialfall einer Punktmasse, wo die gesamte Masse eines Körpers an einem Punkt im $\R^3$ konzentriert ist: $$M=\displaystyle\int\mathrm{d}^3x\,r(\vec x)$$ mit $$r(\vec x)=\begin{cases}\infty & \vec x=\vec 0\\ 0 & \vec x\neq \vec 0\end{cases}$$($\vec r$ ist die sog. Massendichte). 
@@ -21,7 +21,7 @@ title: Deltafunktion
 $$\int_{-\infty}^\infty\mathrm{d}x\,f(x)\delta(x-a) = f(a)$$
 
 ```
-wobei $f$ ein in der Umgebung von $x=a$ stetige Funktion ist und $\delta$ eine [[Distribution|Distribution]]. 
+wobei $f$ ein in der Umgebung von $x=a$ stetige Funktion ist und $\delta$ eine [[Distribution\|Distribution]]. 
 
 ## $\delta$ als Limes regulärer Funktionen
 $$g_\epsilon(x):=\frac{1}{\pi}\frac{\epsilon}{x^2+\epsilon^2}\quad(\epsilon>0)$$
@@ -57,6 +57,6 @@ $$\delta(x-x')=\frac{1}{2\pi}\int_{-\infty}^{\infty}\mathrm{d}k\,e^{ik(x-x')}$$
 ```
 
 ## Übergang zur Sprungfunktion
-Die [[02 IMP Notizen/Sprungfunktion|Sprungfunktion]] ist die Stammfunktion der Dirac'schen Delta-Funktion. 
+Die [[02 IMP Notizen/Sprungfunktion\|Sprungfunktion]] ist die Stammfunktion der Dirac'schen Delta-Funktion. 
 ___
 Tags: #Physik/Elektrodynamik 
