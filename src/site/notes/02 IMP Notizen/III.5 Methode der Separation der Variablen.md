@@ -5,7 +5,7 @@
 # III.5 Methode der Separation der Variablen
 Der Ansatz der Separation der Variablen ist ein weiterer Lösungsansatz für das Randwertproblem der Elektrostatik. 
 
-Homogene [[Laplace-Gleichung|Laplace-Gleichung]] in kartesischen Koordinaten: $$\triangle\phi=\left(\frac{\partial^2}{\partial x^2}+\frac{\partial^2}{\partial y^2}+\frac{\partial^2}{\partial z^2}\right)\phi = 0.$$Ansatz: $\phi(x,y,z)$ als Produkt von Funktionen, die nur von Untermengen an Variablen abhängen. -> in zwei Differentialgleichungen / Eigenwertgleichungen trennen. 
+Homogene [[Laplace-Gleichung\|Laplace-Gleichung]] in kartesischen Koordinaten: $$\triangle\phi=\left(\frac{\partial^2}{\partial x^2}+\frac{\partial^2}{\partial y^2}+\frac{\partial^2}{\partial z^2}\right)\phi = 0.$$Ansatz: $\phi(x,y,z)$ als Produkt von Funktionen, die nur von Untermengen an Variablen abhängen. -> in zwei Differentialgleichungen / Eigenwertgleichungen trennen. 
 
 Beispielsituationen: 
 - Draht in $z$-Richtung
