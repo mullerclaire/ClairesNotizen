@@ -4,7 +4,7 @@
 
 # III.1 Formulierung des Randwertproblems und Eindeutigkeit der Lösung
 **Ziele:** 
-- zu klären, ob die [[02 IMP Notizen/II.5 Elektrostatisches Potential#Konstruktion der Poisson-Gleichung|Poisson-Gleichung]] eine eindeutige Lösung hat 
+- zu klären, ob die [[02 IMP Notizen/II.5 Elektrostatisches Potential#Konstruktion der Poisson-Gleichung\|Poisson-Gleichung]] eine eindeutige Lösung hat 
 - Lösungsmethoden finden in Anwesenheit von Randbedingungen.
 
 # Formulierung und Eindeutigkeit
@@ -16,7 +16,7 @@ _Gegegeben:_
 _Gesucht:_
 $\phi(\vec x)$ mit $\vec x\in V\subset\R^3$
 
-Wir wollen verstehen, unter welchen Randbedingungen eine eindeutige Lösung vorliegt. Die [[02 IMP Notizen/Green'sche Identitäten#^d3e462|zweite Greensche Identität]] führt uns zur Lösung für das gesuchte elektrisches Potential: $$\phi(\vec{x})=\underbrace{\frac{1}{4 \pi \epsilon_{0}} \int_{V} \mathrm{~d}^{3} x^{\prime} \frac{\rho\left(\vec{x}^{\prime}\right)}{\left|\vec{x}-\vec{x}^{\prime}\right|}}_{\text {Coulombpotential }}+\underbrace{\frac{1}{4 \pi} \int_{\partial V} \mathrm{~d} f\left\{\frac{1}{\left|\vec{x}-\vec{x}^{\prime}\right|} \frac{\partial \phi}{\partial n^{\prime}}-\phi\left(\vec{x}^{\prime}\right) \frac{\partial}{\partial n^{\prime}} \frac{1}{\left|\vec{x}-\vec{x}^{\prime}\right|}\right\}}_\text{Randbeiträge}$$
+Wir wollen verstehen, unter welchen Randbedingungen eine eindeutige Lösung vorliegt. Die [[02 IMP Notizen/Green'sche Identitäten#^d3e462\|zweite Greensche Identität]] führt uns zur Lösung für das gesuchte elektrisches Potential: $$\phi(\vec{x})=\underbrace{\frac{1}{4 \pi \epsilon_{0}} \int_{V} \mathrm{~d}^{3} x^{\prime} \frac{\rho\left(\vec{x}^{\prime}\right)}{\left|\vec{x}-\vec{x}^{\prime}\right|}}_{\text {Coulombpotential }}+\underbrace{\frac{1}{4 \pi} \int_{\partial V} \mathrm{~d} f\left\{\frac{1}{\left|\vec{x}-\vec{x}^{\prime}\right|} \frac{\partial \phi}{\partial n^{\prime}}-\phi\left(\vec{x}^{\prime}\right) \frac{\partial}{\partial n^{\prime}} \frac{1}{\left|\vec{x}-\vec{x}^{\prime}\right|}\right\}}_\text{Randbeiträge}$$
 Bemerkungen: 
 - Ladungen außerhalb von $V$ gehen nur implizit über Randbedingungen ein; das Potential wird auf $V$ durch $\rho(\vec x)$ bestimmt und auf $\partial V$ durch die Randbedingungen. 
 - Ist $V$ ladungsfrei, so bestimmen die Randwerte von $\phi$ oder $\frac{\partial\phi}{\partial n}$ das Feld in $V$. 
