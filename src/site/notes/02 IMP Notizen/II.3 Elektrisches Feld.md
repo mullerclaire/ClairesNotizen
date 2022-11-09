@@ -9,7 +9,7 @@ Wenn man in einem Raum viele Ladungen $q_j$ hat ($j=1,\ldots,N$), dann wird der 
 Für eine Testladung $q$ bedeutet das, dass sie die Kraft $\vec F$ erfährt, welche proportional zu $q$ ist und sich an jedem Raumpunkt verändert: $$\vec F = q\cdot\vec E(\vec x).$$
 Mit $\vec E$ das elektrische Feld, das den Raum füllt und unabhängig von der Testladung existiert: $$\vec E(\vec x) = \sum_{j=1}^N\frac{q_j(\vec x-\vec x_j)}{4\pi\e_0|\vec x-\vec x_j|^3}.$$
 ## Grenzfall sehr vieler Punktladungen
-In diesem Fall benutzt man die [[Ladungsverteilung|Ladungsverteilung]] $\rho(\vec x)$ und das elektrische Feld wird zu: 
+In diesem Fall benutzt man die [[Ladungsverteilung\|Ladungsverteilung]] $\rho(\vec x)$ und das elektrische Feld wird zu: 
 ```ad-equation
 title: Elektrisches Coulomb-Feld
 
@@ -31,5 +31,5 @@ $$\text{div}\,\vec E = \vec\nabla\cdot\vec E=0$$ und $$\text{rot}\,\vec E = \vec
 
 ___
 Tags: #Physik/Elektrodynamik 
-Einheitensystem: [[02 IMP Notizen/Einheitensysteme für die Elektrodynamik#SI-System|Einheitensysteme für die Elektrodynamik#SI-System]]
-Links: [[02 IMP Notizen/II.2 Coulombgesetz|II.2 Coulombgesetz]]
+Einheitensystem: [[02 IMP Notizen/Einheitensysteme für die Elektrodynamik#SI-System\|Einheitensysteme für die Elektrodynamik#SI-System]]
+Links: [[02 IMP Notizen/II.2 Coulombgesetz\|II.2 Coulombgesetz]]
