@@ -53,7 +53,7 @@ $$\triangle\vec A(\vec x)=-\mu_0\vec j(\vec x)$$
 ```
 *Bemerkungen:*
 - Eine Gleichung für jede Komponente von $\vec A$ und $\vec j$. Jede Komponente kann getrennt beobachtet werden.  
-- Sie sind analog zur [[02 IMP Notizen/Poisson-Gleichung der Elektrostatik|Poisson-Gleichung der Elektrostatik]]. 
+- Sie sind analog zur [[02 IMP Notizen/Poisson-Gleichung der Elektrostatik\|Poisson-Gleichung der Elektrostatik]]. 
 
 ## Grundproblem der Magnetostatik
 *Gegeben:*
