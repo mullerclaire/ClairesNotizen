@@ -4,7 +4,7 @@
 
 
 # $\sigma$-Algebra
-Ein Mengensystem $\mathcal{S}\subset 2^X$ heißt ==$\sigma$-Algebra über $X$==
+Ein Mengensystem $\mathcal{S}\subset 2^X$ heißt **$\sigma$-Algebra über $X$**
 falls für $A_1, A_2,... \in\cal S$ gilt
 ## Nicht leer
 - $\mathcal S \neq \emptyset$
