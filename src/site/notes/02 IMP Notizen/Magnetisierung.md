@@ -3,8 +3,8 @@
 ---
 
 # Magnetisierung
-ist das [[magnetischer Moment|magnetische Moment]] pro Volumen: $$\vec M = \frac{d\vec m}{dV}$$
-Beschreibt auch Zsmh zwischen [[magnetische Flussdichte|magnetische Flussdichte]] $\vec B$ und [[magnetische Feldstärke|magnetische Feldstärke]] $\vec H$: 
+ist das [[magnetischer Moment\|magnetische Moment]] pro Volumen: $$\vec M = \frac{d\vec m}{dV}$$
+Beschreibt auch Zsmh zwischen [[magnetische Flussdichte\|magnetische Flussdichte]] $\vec B$ und [[magnetische Feldstärke\|magnetische Feldstärke]] $\vec H$: 
 $$
 \vec{B}=\mu_{0}(\vec{H}+\vec{M})
 $$
