@@ -3,8 +3,8 @@
 ---
 
 # unitärer Vektorraum
-Ein $\C$-Vektorraum $V$ mit einem [[02 IMP Notizen/Skalarprodukt#Skalarprodukt in C|Skalarprodukt]] $\langle\cdot,\cdot\rangle$ heißt ein ==unitärer Vektorraum==. 
+Ein $\C$-Vektorraum $V$ mit einem [[02 IMP Notizen/Skalarprodukt#Skalarprodukt in C\|Skalarprodukt]] $\langle\cdot,\cdot\rangle$ heißt ein ==unitärer Vektorraum==. 
 
 ---
 Verbunden mit:
-- [[02 IMP Notizen/euklidischer Vektorraum|euklidischer Raum]]
+- [[02 IMP Notizen/euklidischer Vektorraum\|euklidischer Raum]]
