@@ -3,13 +3,13 @@
 ---
 
 # Lemma 1.3 Eigenschaften einer $\sigma$-Algebra
-Sei $X$ eine nichtleere Menge, $\mathcal A$ eine [[02 IMP Notizen/σ-Algebra|σ-Algebra]] über X. Dann gilt 
+Sei $X$ eine nichtleere Menge, $\mathcal A$ eine [[02 IMP Notizen/σ-Algebra\|σ-Algebra]] über X. Dann gilt 
 1. $A,B\in\mathcal A\implies (A\cup B\in\mathcal A \land A\setminus B\in\mathcal A)$
 2. $X, \emptyset\in\mathcal A$
 3. Falls $A_k\in\mathcal A$ für alle $k\in\N$, dann ist $\displaystyle\bigcap_{k\in\N}A_k\in\mathcal A$.
 
 **Beweis von 1**
-- Seien $A, B \in \mathcal{A}$. Wir betrachten die Folge $A_0:=A, A_1:=B$ und $A_j=A$ für alle $j \geq 2$. Dann gilt $A_j \in \mathcal{A}$ für alle $j$, und aus [[02 IMP Notizen/σ-Algebra#Vereinigung abzählbar vieler Mengen|σ-Algebra#Vereinigung abzählbar vieler Mengen]] folgt, dass $A \cup B=\bigcup_{j=0}^{\infty} A_j \in \mathcal{A}$. Außerdem gilt
+- Seien $A, B \in \mathcal{A}$. Wir betrachten die Folge $A_0:=A, A_1:=B$ und $A_j=A$ für alle $j \geq 2$. Dann gilt $A_j \in \mathcal{A}$ für alle $j$, und aus [[02 IMP Notizen/σ-Algebra#Vereinigung abzählbar vieler Mengen\|σ-Algebra#Vereinigung abzählbar vieler Mengen]] folgt, dass $A \cup B=\bigcup_{j=0}^{\infty} A_j \in \mathcal{A}$. Außerdem gilt
 $$
 A^c \in \mathcal{A} \Rightarrow A^c \cup B \in \mathcal{A} \Rightarrow\left(A^c \cup B\right)^c=A \cap B^c=B \backslash A \in \mathcal{A}
 $$
