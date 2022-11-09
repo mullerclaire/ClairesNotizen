@@ -3,7 +3,7 @@
 ---
 
 # $\mu$-Nullmenge
-In einem [[02 IMP Notizen/Maßraum|Maßraum]] $(X,\mathcal A, \mu)$: 
+In einem [[02 IMP Notizen/Maßraum\|Maßraum]] $(X,\mathcal A, \mu)$: 
 die $N\in\mathcal A$ mit $\mu(N)=0$ heißen $\mu$-==Nullmengen==. 
 
 ___
