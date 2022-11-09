@@ -9,6 +9,7 @@
 
 ## 2. Das Gauß-Verfahren I
 ### 2.1 Gaußsche Eliminationsverfahren und LR-Zerlegung
-[[Rückwärtssubstitution|Rückwärtssubstitution]]
-[[02 IMP Notizen/Landau-Symbole|Landau-Symbole]]
-[[LR-Zerlegung|LR-Zerlegung]]
+[[Rückwärtssubstitution\|Rückwärtssubstitution]]
+[[02 IMP Notizen/Landau-Symbole\|Landau-Symbole]]
+[[LR-Zerlegung\|LR-Zerlegung]]
+
