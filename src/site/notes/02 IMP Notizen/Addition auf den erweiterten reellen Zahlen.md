@@ -15,4 +15,4 @@
 
 ---
 Siehe auch:
-- [[02 IMP Notizen/erweiterte reelle Zahlen|erweiterte reelle Zahlen]]
+- [[02 IMP Notizen/erweiterte reelle Zahlen\|erweiterte reelle Zahlen]]
