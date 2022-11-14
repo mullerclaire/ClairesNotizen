@@ -18,7 +18,7 @@ $$\vec F_{12}=\frac{\mu_0I_1I_2}{4\pi}\oint_{C_1}\oint_{C_2}\frac{\d\vec x_1\tim
 Die Ströme sind konstant (statik). 
 
 ### magnetische Feldkonstante
-Im Ampere'schen Gesetz wird die **magnetische Feldkonstante** (Permeabilität des Vakuums) benutzt: $$\mu_0=4\pi\cdot10^{-7}\frac{\mathrm{kg\cdot m}}{\mathrm{A^2s^2}},$$ die folgende Beziehung erfüllt: $$\e_0\cdot\mu_0=\frac{1}{c^2}.$$ Siehe [[02 IMP Notizen/Dielektrizitätskonstante des Vakuums\|Dielektrizitätskonstante des Vakuums]] für $\e_0$. 
+Im Ampere'schen Gesetz wird die [[02 IMP Notizen/magnetische Feldkonstante\|magnetische Feldkonstante]] ([[02 IMP Notizen/Permeabilität\|Permeabilität]] des Vakuums) benutzt: $$\mu_0=4\pi\cdot10^{-7}\frac{\mathrm{kg\cdot m}}{\mathrm{A^2s^2}},$$ die folgende Beziehung erfüllt: $$\e_0\cdot\mu_0=\frac{1}{c^2}.$$ Siehe [[02 IMP Notizen/Dielektrizitätskonstante des Vakuums\|Dielektrizitätskonstante des Vakuums]] für $\e_0$. 
 
 ### Alternative Darstellung
 Nach Umschreiben (siehe ED S. 56): 
