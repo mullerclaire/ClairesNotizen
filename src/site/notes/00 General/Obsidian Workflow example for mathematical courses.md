@@ -47,15 +47,17 @@ For general information about how to use Obsidian, see https://help.obsidian.md
 ## Useful community plugins
 - advanced tables
 - calendar
+- Full Calendar
 - periodic notes
 - checklist
 - clear unused images
 - **custom frames** for Moodle, MOOCs, Notion, any resource you use often: it lets you access it from your Obsidian vault, and use it without the disctractions of a browser. 
 - Discord Rich Presence
-- **Dataview**
+- **Dataview** to make lists of notes on a certain topic 
 - emoji shortcodes 
 - **extended mathJax** to create shortcuts for latex (`\newcommand`)
 - Homepage (to make a dashboard and open it on startup)
+- multi-column
 - **spaced repetition** to get reminded to reread each note on the right day for your memory
 - **Tag wrangler** to rename and merge tags and improve the tag search 
 
