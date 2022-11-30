@@ -45,20 +45,23 @@ For general information about how to use Obsidian, see https://help.obsidian.md
 - *Templates*
 
 ## Useful community plugins
-- advanced tables
-- calendar
+- Advanced tables
+- Calendar
+- Chronology
+- **Completr** autocomplete for LaTeX
 - Full Calendar
-- periodic notes
-- checklist
-- clear unused images
-- **custom frames** for Moodle, MOOCs, Notion, any resource you use often: it lets you access it from your Obsidian vault, and use it without the disctractions of a browser. 
+- Periodic notes
+- Checklist
+- Clear unused images
+- **Custom frames** for Moodle, MOOCs, Notion, any resource you use often: it lets you access it from your Obsidian vault, and use it without the disctractions of a browser. 
 - Discord Rich Presence
 - **Dataview** to make lists of notes on a certain topic 
-- emoji shortcodes 
-- **extended mathJax** to create shortcuts for latex (`\newcommand`)
+- Emoji shortcodes 
+- **Extended mathJax** to create shortcuts for LaTeX (`\newcommand`)
 - Homepage (to make a dashboard and open it on startup)
-- multi-column
-- **spaced repetition** to get reminded to reread each note on the right day for your memory
+- Kanban
+- Multi-column markdown
+- **Spaced repetition** to get reminded to reread each note on the right day for your memory
 - **Tag wrangler** to rename and merge tags and improve the tag search 
 
 ## Ressources
