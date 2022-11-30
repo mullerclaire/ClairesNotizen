@@ -3,4 +3,4 @@
 ---
 
 # messbare Menge
-Eine menge $A$ heißt **messbar**, falls sie einer $\sigma$-[[02 IMP Notizen/σ-Algebra\|Algebra]] gehört. 
+Eine menge $A$ heißt **messbar**, falls sie einer $\sigma$-[[02 IMP Notizen/Sigma-Algebra\|Algebra]] gehört. 
