@@ -28,7 +28,7 @@ For general information about how to use Obsidian, see https://help.obsidian.md
 
 ## Useful core plugins
 - Audio recorder
-- *Backlinks*
+- **Backlinks**
 - Command palette
 - File explorer
 - File recovery
@@ -36,13 +36,13 @@ For general information about how to use Obsidian, see https://help.obsidian.md
 - Note composer
 - Outgoing links
 - Outline
-- *Page preview*
+- **Page preview**
 - Quick switcher
 - Random notes
 - *Search*
 - Slash commands
 - Tag pane
-- *Templates*
+- **Templates**
 
 ## Useful community plugins
 - Advanced tables
