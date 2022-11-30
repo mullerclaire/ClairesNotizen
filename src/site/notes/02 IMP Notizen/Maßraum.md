@@ -8,4 +8,4 @@ Ein Tripel $(X,\mathcal{A},\mu)$ aus [[02 IMP Notizen/messbarer Raum\|messbaren 
 
 ---
 Siehe auch:
-- [[02 IMP Notizen/σ-Algebra\|Sigma-Algebra]]
+- [[02 IMP Notizen/Sigma-Algebra\|Sigma-Algebra]]
