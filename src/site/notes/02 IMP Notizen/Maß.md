@@ -9,7 +9,7 @@ Ein [[02 IMP Notizen/Prämaß\|Prämaß]] $\mu:\mathcal{A}\to[0,\infty]$ auf ein
 
 ___
 **Bemerkung**
-Die Menge aller Maße auf einer $\sigma$-[[02 IMP Notizen/σ-Algebra\|Algebra]] $\mathcal A$ bildet einen Kegel, d.h. für Maße $\mu, \nu:\mathcal A\to[0,\infty]$ und $\alpha\geq0$ sind auch $\mu+\nu:A\mapsto\mu(A)+\nu(A)$ und $\alpha\mu:A\mapsto\alpha\mu(A)$ Maße auf $\mathcal A$. 
+Die Menge aller Maße auf einer $\sigma$-[[02 IMP Notizen/Sigma-Algebra\|Algebra]] $\mathcal A$ bildet einen Kegel, d.h. für Maße $\mu, \nu:\mathcal A\to[0,\infty]$ und $\alpha\geq0$ sind auch $\mu+\nu:A\mapsto\mu(A)+\nu(A)$ und $\alpha\mu:A\mapsto\alpha\mu(A)$ Maße auf $\mathcal A$. 
 ___
 
 
