@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-imp-notizen/satz-der-monotonen-konvergenz/"}
 ---
 
-# Satz der monotonen Konvergenz
+# Satz der monotonen Konvergenz / Beppo Levi
 
 $\operatorname{Sei}(X, \mathcal{A}, \mu)$ ein Maßraum, $E \in \mathcal{A}$
 1. Sei $f_k: E \rightarrow[0, \infty]$ eine monoton wachsende Folge messbarer Funktionen. Das heißt, für alle $k \in \mathbb{N}$ ist $f_k$ messbar und $f_k \leq f_{k+1}$.
