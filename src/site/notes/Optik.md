@@ -3,8 +3,6 @@
 ---
 
 
-
-
 # Optik
 ## Vorlesungen
 [[02 IMP Notizen/2. von Maxwell zu Helmholtz\|2. von Maxwell zu Helmholtz]]
@@ -36,7 +34,17 @@
 - [x] [[Übung4.pdf]]
 	- [ ] Breitengrade
 - [x] [[Übung5.pdf]]
-- [ ] [[Übung6.pdf\|Übung6.pdf]]
+- [x] [[Übung6.pdf\|Übung6.pdf]]
+- [x] [[Übung7.pdf]]
+
+# Präsenzübungen (Korrekturen)
+- [ ] PÜ1
+- [ ] PÜ2
+- [ ] PÜ3
+- [ ] PÜ4
+- [ ] PÜ5
+- [ ] PÜ6
+
 
 ---
 # Alle Notizen
@@ -47,9 +55,9 @@
 - [[02 IMP Notizen/Strahlungsdruck\|Strahlungsdruck]]
 - [[02 IMP Notizen/Snellius'sches Brechungsgesetz\|Snellius'sches Brechungsgesetz]]
 - [[02 IMP Notizen/relative Dielektrizitätskonstante\|relative Dielektrizitätskonstante]]
-- [[02 IMP Notizen/Phasengeschwindigkeit\|Phasengeschwindigkeit]]
 - [[02 IMP Notizen/Reflexionsgesetz\|Reflexionsgesetz]]
 - [[02 IMP Notizen/Poynting-Vektor\|Poynting-Vektor]]
+- [[02 IMP Notizen/Phasengeschwindigkeit\|Phasengeschwindigkeit]]
 - [[02 IMP Notizen/Permeabilität\|Permeabilität]]
 - [[02 IMP Notizen/Lichtgeschwindigkeit\|Lichtgeschwindigkeit]]
 - [[02 IMP Notizen/Intensität\|Intensität]]
