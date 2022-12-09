@@ -9,7 +9,7 @@
 Abbildung $\|\cdot\|: V\to \mathbb{R}$
 1. Positivität
 2. $\|\alpha\cdot x\| = |\alpha|\cdot\|x\|$
-3. Dreiecksungleichung
+3. [[02 IMP Notizen/Dreiecksungleichung\|Dreiecksungleichung]]
 
 ###### Beispiele
 
